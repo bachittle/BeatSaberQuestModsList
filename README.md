@@ -1,6 +1,6 @@
 
 # Beat Saber Mods list for the Oculus Quest
-If you don't know anything about installing mods, [click here.](#mod-tutorial) </br>
+If you don't know anything about installing mods, [click here.](https://bsmg.wiki/quest-modding.html) </br>
 latest version of Beat Saber: (v1.9.0)
 
 #### Legend
