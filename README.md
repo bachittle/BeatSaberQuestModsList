@@ -90,21 +90,29 @@ Compatible | Mod Name | Author(s) and Github Link | Downloads
 ----
 <a name="Mapping-Extensions"></a>
 **Mapping Extensions 0.17.0 for Beat Saber 1.9.0**
+
 Source code at https://github.com/zoller27osu/QuestMods/tree/master/MappingExtensions
+
 Thanks to @Kyle 1413#1413 for the PC original and the original Quest port (which the source can merge into once his other Quest mods update). Also thanks to @Pink#3877 for testing.
 
 It supports the same maps but left-handed mode should work now (enjoy the backwards text in some songs if you do though)
 
+
 -----
 <a name="Intro-Skip"></a>
 **Intro Skip**
+
 This mod allows you to skip long intros, outros, or big gaps in the middle of a song. This is very useful for maps like Recollection or G1ll35. This mod also features a configuration file which allows you to customize where the text is, the color of the text, timings for the skips, and if you want middle skips enabled. Note that if there are bombs then it will not skip as that would be cheating.
+
 https://streamable.com/qkwj8l
+
 
 -----
 <a name="Motion-Blur-Disabler"></a>
 **Motion Blur Disabler by futuremappermydud** 
+
 This mod disables the annoying white line which is inside the saber. This mod is made 100% by iplay games!#6969 / futuremappermydud, I'm just uploading it for him. The image down here actually makes it look better without the mod lol, but it shows how it works.
+
 
 ![Motion Blur Disabler image preview](https://cdn.discordapp.com/attachments/693670761453453402/697858753734770708/motionblur.png)
 -----
