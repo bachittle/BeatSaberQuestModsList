@@ -71,7 +71,7 @@ Compatible | Mod Name | Author(s) and Github Link | Downloads
     index1 = table_str.find(key)
     index2 = table_str.rfind(key)
 
-    fp = open("GEN.md", "w")
+    fp = open("README.md", "w")
     fp.write(table_str[:index1 + len(key)] + table_md + table_str[index2:])
     fp.close()
 

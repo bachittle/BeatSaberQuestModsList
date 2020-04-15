@@ -28,7 +28,7 @@ Compatible | Mod Name | Author(s) and Github Link | Downloads
 :x:| Notice Board | <ul><li>Pink</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/695704997492686878/NoticeBoard.zip)</li></ul>
 :x:| SongHelper | <ul><li>[darknight1050](https://github.com/darknight1050/SongHelper)</li></ul> | <li>[**Latest (v1.8.0)**](https://github.com/darknight1050/SongHelper/releases/download/0.1.1/songhelper_v0.1.1.zip)</li><li>[Other versions](https://github.com/darknight1050/SongHelper/releases)</li></ul>
 :x:| More Options | <ul><li>April is very fun</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/695400427734433842/moreoptions_v0.1.1.zip)</li></ul>
-:x:| Clock mod | <ul><li>[Miniwa (n)](n)</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694940041562030221/clock.zip)</li></ul>
+:x:| Clock mod | <ul><li>Miniwa</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694940041562030221/clock.zip)</li></ul>
 :x:| Max Rumble | <ul><li>Pink</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694880192845447218/MaxRumble.zip)</li></ul>
 :x:| Honk | <ul></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694743683752263690/Honk.zip)</li></ul>
 :x:| Darth Maul Mode Plus | <ul><li>April is very fun</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694285094973603880/togglemaul_v0.1.0.zip)</li></ul>
