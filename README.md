@@ -6,8 +6,8 @@ latest version of Beat Saber: (v1.9.0)
 #### Legend
 :heavy_check_mark: - Compatible with latest version </br>
 :x: - Not confirmed to be compatible with latest version </br>
-**NOTE: if the version is incompatible it may still work, it just isn't confirmed to work**
 
+**NOTE: if the version is incompatible it may still work, it just isn't confirmed to work**
 <a name="mod-tutorial"></a>
 
 ## Table of Contents
@@ -16,6 +16,7 @@ latest version of Beat Saber: (v1.9.0)
 - Click on the author name to go to their github page
 
 <!--add more items with add.py-->
+### Mods
 Compatible | Mod Name | Author(s) and Github Link | Downloads
 -----------|----------|---------|--------
 :heavy_check_mark:| Mapping Extensions | <ul><li>[Michael Zoller (updated to latest version)](https://github.com/zoller27osu/QuestMods/tree/master/MappingExtensions)</li><li>[Lord Kyle (original author)](https://github.com/Kylemc1413/QuestMods/tree/master/MappingExtensions)</li><li>Pink (testing)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/699422255880470608/MappingExtensions.zip)</li><li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/655856233126821920/MappingExtensions_0.15.0.zip)</li></ul>
@@ -49,4 +50,39 @@ Compatible | Mod Name | Author(s) and Github Link | Downloads
 :x:| Be Gone Scores | <ul><li>darknight1050</li><li>futuremappermydud (author)</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/658753973360263219/xscore.zip)</li></ul>
 :x:| Hit Score Visualizer | <ul><li>[Sc2ad](https://github.com/sc2ad/QuestHitScoreVisualizer/tree/dev_hsv/hitscorevisualizer)</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/657311587769516091/hitscorevisualizer_v3.0.1.zip)</li></ul>
 :x:| QSettingsPlus | <ul><li>Rugtveit</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/655188906882629663/QSettingsPlus.zip)</li></ul>
+
+### Assets
+Compatible | Mod Name | Author(s) and Github Link | Downloads
+-----------|----------|---------|--------
+:heavy_check_mark:| Seat Baber Menu title | <ul><li>Mathias (author)</li><li>Xrayxout (commissioner)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/699698909882089602/SeatBaber.zip)</li></ul>
+:heavy_check_mark:| bazinga sound mod | <ul><li>jul7892</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/699986410593320960/bazinga_sound_mod.zip)</li><li>[OGG sound file](https://cdn.discordapp.com/attachments/693694678922690600/699987090741526558/MenuClick.ogg)</li></ul>
+:heavy_check_mark:| Cal Kestis Lightsaber | <ul><li>Alex (author)</li><li>shadowchild789 (commissioner)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/699347353240600716/Cal_Kestis_Asset.zip)</li></ul>
+:heavy_check_mark:| Bruh Saber Logo V1 | <ul><li>Barack Obama</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/698619749814239286/BruhSaberLogoV1.zip)</li></ul>
+:heavy_check_mark:| Galaxy V2 Asset saber | <ul><li>Alex (author)</li><li>Altair2 (resources)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/698286999001366578/GalaxyV2.zip)</li></ul>
+:heavy_check_mark:| Honk Trail | <ul><li>Simme63</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/698187914370220032/honk_trail.zip)</li><li>[Alternate (v1.9.0)](https://cdn.discordapp.com/attachments/693694678922690600/698188723011059816/honk_trail.zip)</li></ul>
+:heavy_check_mark:| Butter Cat Trail | <ul><li>Simme63</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/698188035858366484/butter_cat_trail.zip)</li></ul>
+:heavy_check_mark:| White Guy Blinking Trail | <ul><li>Simme63</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/698188222500700210/white_guy_blinking_trail.zip)</li></ul>
+:heavy_check_mark:| Sans Trail | <ul><li>Simme63</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/698188315282636830/sands_trail.zip)</li></ul>
+:heavy_check_mark:| Peodd Trail | <ul><li>Simme63</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/698188379493236756/peodd.zip)</li></ul>
+:heavy_check_mark:| Wave Trail | <ul><li>Simme63</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/698188586029285446/wave_trail.zip)</li></ul>
+:heavy_check_mark:| Plasma Katana Trail | <ul><li>Simme63</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/698188814824374323/plasma_katana_trail_maybe.zip)</li></ul>
+:heavy_check_mark:| Smol Trail | <ul><li>Simme63</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/698188913021419621/smol_trail.zip)</li><li>[smol trail 2 (v1.9.0)](https://cdn.discordapp.com/attachments/693694678922690600/698188989613473882/Smol_trail_2.zip)</li></ul>
+:heavy_check_mark:| Fire Trail | <ul><li>Sands (author)</li><li>Simme63 (testing and helping)</li><li>chromavr (fixing bugs and issues)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/697833020748726352/FireTrail.zip)</li><li>[v1.8.0](https://cdn.discordapp.com/attachments/693694678922690600/696034001672208384/FireTrail.zip)</li></ul>
+:heavy_check_mark:| Lines Trail | <ul><li>Sands</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/697833094228475944/LinesTrail.zip)</li><li>[v1.8.0](https://cdn.discordapp.com/attachments/693694678922690600/696432771253403749/LinesTrail.zip)</li></ul>
+:heavy_check_mark:| Triangle Trail | <ul><li>Sands (author)</li><li>Simme63 (testing and helping)</li><li>chromavr (fixing bugs and issues)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693694678922690600/697833169499717652/TriangleTrail.zip)</li><li>[v1.8.0](https://cdn.discordapp.com/attachments/693694678922690600/696063439608610816/TriangleTrail.zip)</li></ul>
+:x:| Neon Chokuto | <ul><li>Mathias</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/697162080909918298/NeonChokuto1.8.0.zip)</li><li>[Inverted Neon Chokuto v1.8.0](https://cdn.discordapp.com/attachments/693694678922690600/697162186019307540/NeonChokutoInverted1.8.0.zip)</li></ul>
+:x:| Unnamed Osu Hitsound | <ul><li>professor honk</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/697149879138385940/UnnamedOsuSoundV1.zip)</li></ul>
+:x:| Pro Trail | <ul><li>professor honk</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/697150116687118426/ProTrailV1.0.0.zip)</li></ul>
+:x:| WireGemSabers | <ul><li>Gladpus</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/697078105336184993/WireGemSaber_102.zip)</li></ul>
+:x:| RedRumbler Beatsaber Logos | <ul><li>RedRumbler</li></ul> | <li>[**Latest (v1.8.0)**](https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/BeatSaberLogos)</li></ul>
+:x:| RedRumbler Trails | <ul><li>RedRumbler</li></ul> | <li>[**Latest (v1.8.0)**](https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/SaberTrails)</li></ul>
+:x:| Kick Hitsound | <ul><li>professor honk</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/696580959184748554/KickSoundV1.0.0.zip)</li><li>[GoodHit OGG Soundfile](https://cdn.discordapp.com/attachments/693694678922690600/696580982245163038/GoodHit.ogg)</li></ul>
+:x:| Dot Trail | <ul><li>professor honk</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/696479386517504010/DotTrailV1.zip)</li></ul>
+:x:| Galaxy Trail | <ul><li>professor honk</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/696476809860218940/GalaxyTrailV1.zip)</li></ul>
+:x:| Cool Trail | <ul><li>professor honk</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/696474069457174548/CoolTrailV2.zip)</li></ul>
+:x:| Softer OSU Click Hit Sounds | <ul><li>Emerald</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/696402525686857759/Softer_OSU_Click.zip)</li><li>[GoodHit.OGG](https://cdn.discordapp.com/attachments/693694678922690600/696402540576636978/GoodHit.ogg)</li></ul>
+:x:| Grip N' Rip Sabers | <ul><li>Emerald (ported to quest)</li><li>Zennysama (original author)</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/696352626450759720/Grip_N_Rip.zip)</li></ul>
+:x:| Fortnite Logo | <ul><li>Emerald</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/696283228826370048/Fortnite_logo.zip)</li></ul>
+:x:| Minecraft Menu Music | <ul><li>Tohkan2D</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/696072237442400296/MinecraftMenuMusic.zip)</li></ul>
+:x:| Toothpick Saber | <ul><li>Alex (author)</li><li>timothy10583 (commissioner)</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/695808324461133914/Toothpick_saber.zip)</li></ul>
 <!--add more items with add.py-->
