@@ -33,7 +33,7 @@ def boolean_input(str):
     str = input(str + " (y/n): ")
     return True if str and str[0].lower() == "y" else False 
 
-def save_md(type):
+def save_md_table(type):
     table_md = "\n### " + type[0].upper() + type[1:] + """s
 Compatible | Mod Name | Author(s) and Github Link | Downloads
 -----------|----------|---------|--------
@@ -42,7 +42,11 @@ Compatible | Mod Name | Author(s) and Github Link | Downloads
         item = table_json[mod_name]
         if item["type"] == type:
             table_md += ":heavy_check_mark:" if item["version"] == LATEST_VERSION else ":x:"
-            table_md += "| " + mod_name + " | <ul>"
+            mod_name_new = mod_name
+            if item.get("desc", ""):
+                table_md += "| [" + mod_name + "](#" + mod_name_new.replace(" ", "-") + ") | <ul>"
+            else:
+                table_md += "| " + mod_name + " | <ul>"
             for author in item["authors"]:
                 contributions = author["contributions"]
                 if contributions:
@@ -61,6 +65,21 @@ Compatible | Mod Name | Author(s) and Github Link | Downloads
             table_md += "</ul>\n"
     return table_md
 
+def save_md_desc(type):
+    desc_md = "\n## "+ type[0].upper() + type[1:] +" Descriptions\n----\n" 
+    for mod_name in table_json.keys():
+        mod_name_new = mod_name
+        item = table_json[mod_name]
+        if item["type"] == type:
+                if item.get("desc", ""):
+                    desc_md += '<a name="' + mod_name_new.replace(" ", "-") + '"></a>\n'
+                    desc_md += item["desc"] + "\n"
+                if item.get("image", ""):
+                    desc_md += "![" + mod_name + " image preview]("+item["image"]+")\n" 
+                if item.get("desc", ""):
+                    desc_md += "-----\n"
+    return desc_md
+
 def save_file():
     print("saving json file...")
     fd = open(JSON_FILENAME, "w")
@@ -69,7 +88,9 @@ def save_file():
     print("converting json to md format...")
     table_md = ""
     for type in ITEM_TYPES:
-        table_md += save_md(type)
+        table_md += save_md_table(type)
+    for type in ITEM_TYPES:
+        table_md += save_md_desc(type)
     
     # print(table_md)
 

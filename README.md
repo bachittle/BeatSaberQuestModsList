@@ -1,4 +1,5 @@
 
+<a name="top"></a>
 # Beat Saber Mods list for the Oculus Quest
 If you don't know anything about installing mods, [click here.](https://bsmg.wiki/quest-modding.html) </br>
 latest version of Beat Saber: (v1.9.0)
@@ -8,7 +9,6 @@ latest version of Beat Saber: (v1.9.0)
 :x: - Not confirmed to be compatible with latest version </br>
 
 **NOTE: if the version is incompatible it may still work, it just isn't confirmed to work**
-<a name="mod-tutorial"></a>
 
 ## Table of Contents
 
@@ -19,9 +19,9 @@ latest version of Beat Saber: (v1.9.0)
 ### Mods
 Compatible | Mod Name | Author(s) and Github Link | Downloads
 -----------|----------|---------|--------
-:heavy_check_mark:| Mapping Extensions | <ul><li>[Michael Zoller (updated to latest version)](https://github.com/zoller27osu/QuestMods/tree/master/MappingExtensions)</li><li>[Lord Kyle (original author)](https://github.com/Kylemc1413/QuestMods/tree/master/MappingExtensions)</li><li>Pink (testing)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/699422255880470608/MappingExtensions.zip)</li><li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/655856233126821920/MappingExtensions_0.15.0.zip)</li></ul>
-:heavy_check_mark:| Intro Skip | <ul><li>April is Very Fun</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/698576745829499010/introskip_v0.1.0.zip)</li></ul>
-:heavy_check_mark:| Motion Blur Disabler | <ul><li>futuremappermydud</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/697858728157905066/libmbdisabler.zip)</li></ul>
+:heavy_check_mark:| [Mapping Extensions](#Mapping-Extensions) | <ul><li>[Michael Zoller (updated to latest version)](https://github.com/zoller27osu/QuestMods/tree/master/MappingExtensions)</li><li>[Lord Kyle (original author)](https://github.com/Kylemc1413/QuestMods/tree/master/MappingExtensions)</li><li>Pink (testing)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/699422255880470608/MappingExtensions.zip)</li><li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/655856233126821920/MappingExtensions_0.15.0.zip)</li></ul>
+:heavy_check_mark:| [Intro Skip](#Intro-Skip) | <ul><li>April is Very Fun</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/698576745829499010/introskip_v0.1.0.zip)</li></ul>
+:heavy_check_mark:| [Motion Blur Disabler](#Motion-Blur-Disabler) | <ul><li>futuremappermydud</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/697858728157905066/libmbdisabler.zip)</li></ul>
 :x:| Rainbow Mod | <ul><li>[darknight1050](https://github.com/darknight1050/RainbowMod)</li></ul> | <li>[**Latest (v1.8.0)**](https://github.com/darknight1050/RainbowMod/releases/download/0.2.21/rainbowmod_v0.2.21.zip)</li><li>[Other versions](https://github.com/darknight1050/RainbowMod/releases)</li></ul>
 :x:| Quest Counters | <ul><li>[futuremappermydud](https://github.com/Futuremappermydud/Quest-Counters)</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/696455923820134530/Quest_Counters-1-1-2.zip)</li></ul>
 :x:| Volume Config | <ul><li>Pink</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/696164225415905290/VolumeChanger.zip)</li></ul>
@@ -85,4 +85,30 @@ Compatible | Mod Name | Author(s) and Github Link | Downloads
 :x:| Fortnite Logo | <ul><li>Emerald</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/696283228826370048/Fortnite_logo.zip)</li></ul>
 :x:| Minecraft Menu Music | <ul><li>Tohkan2D</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/696072237442400296/MinecraftMenuMusic.zip)</li></ul>
 :x:| Toothpick Saber | <ul><li>Alex (author)</li><li>timothy10583 (commissioner)</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693694678922690600/695808324461133914/Toothpick_saber.zip)</li></ul>
+
+## Mod Descriptions
+----
+<a name="Mapping-Extensions"></a>
+**Mapping Extensions 0.17.0 for Beat Saber 1.9.0**
+Source code at https://github.com/zoller27osu/QuestMods/tree/master/MappingExtensions
+Thanks to @Kyle 1413#1413 for the PC original and the original Quest port (which the source can merge into once his other Quest mods update). Also thanks to @Pink#3877 for testing.
+
+It supports the same maps but left-handed mode should work now (enjoy the backwards text in some songs if you do though)
+
+-----
+<a name="Intro-Skip"></a>
+**Intro Skip**
+This mod allows you to skip long intros, outros, or big gaps in the middle of a song. This is very useful for maps like Recollection or G1ll35. This mod also features a configuration file which allows you to customize where the text is, the color of the text, timings for the skips, and if you want middle skips enabled. Note that if there are bombs then it will not skip as that would be cheating.
+https://streamable.com/qkwj8l
+
+-----
+<a name="Motion-Blur-Disabler"></a>
+**Motion Blur Disabler by futuremappermydud** 
+This mod disables the annoying white line which is inside the saber. This mod is made 100% by iplay games!#6969 / futuremappermydud, I'm just uploading it for him. The image down here actually makes it look better without the mod lol, but it shows how it works.
+
+![Motion Blur Disabler image preview](https://cdn.discordapp.com/attachments/693670761453453402/697858753734770708/motionblur.png)
+-----
+
+## Asset Descriptions
+----
 <!--add more items with add.py-->
