@@ -98,6 +98,8 @@ Thanks to @Kyle 1413#1413 for the PC original and the original Quest port (which
 It supports the same maps but left-handed mode should work now (enjoy the backwards text in some songs if you do though)
 
 
+
+
 [back to top](#top)
 
 -----
@@ -107,6 +109,8 @@ It supports the same maps but left-handed mode should work now (enjoy the backwa
 This mod allows you to skip long intros, outros, or big gaps in the middle of a song. This is very useful for maps like Recollection or G1ll35. This mod also features a configuration file which allows you to customize where the text is, the color of the text, timings for the skips, and if you want middle skips enabled. Note that if there are bombs then it will not skip as that would be cheating.
 
 https://streamable.com/qkwj8l
+
+
 
 
 [back to top](#top)
@@ -119,6 +123,8 @@ This mod disables the annoying white line which is inside the saber. This mod is
 
 
 ![Motion Blur Disabler image preview](https://cdn.discordapp.com/attachments/693670761453453402/697858753734770708/motionblur.png)
+
+
 [back to top](#top)
 
 -----
@@ -136,6 +142,8 @@ Use the **README** for more info (how to edit config): https://github.com/darkni
 Download:
 
 https://github.com/darknight1050/RainbowMod/releases/download/0.2.2/rainbowmod_v0.2.2.zip
+
+
 
 
 [back to top](#top)
@@ -192,6 +200,8 @@ Video: https://streamable.com/tbp7fz
 
 Github: https://github.com/Futuremappermydud/Quest-Counters
 
+
+
 [back to top](#top)
 
 -----
@@ -208,6 +218,8 @@ These volume numbers stay constant, essentially meaning it also removes Adaptive
 
 
 ![Volume Config image preview](https://cdn.discordapp.com/attachments/693670761453453402/696164196290658324/cover.PNG)
+
+
 [back to top](#top)
 
 -----
@@ -232,6 +244,8 @@ https://beatsaver.com/beatmap/3705
 
 
 ![ChromaLite image preview](https://i.imgur.com/wHOpndL.png)
+
+
 [back to top](#top)
 
 -----
@@ -280,6 +294,8 @@ The Discord is 'Unavailable' as the server is not ready for any new members, onc
 
 
 ![Notice Board image preview](https://cdn.discordapp.com/attachments/693670761453453402/695704974273019904/unknown.png)
+
+
 [back to top](#top)
 
 -----
@@ -291,6 +307,8 @@ Allows you to scroll in the songlist with your thumbsticks!
 Download:
 
 https://github.com/darknight1050/SongHelper/releases/download/0.1.1/songhelper_v0.1.1.zip
+
+
 
 
 [back to top](#top)
@@ -318,6 +336,8 @@ _What is coming soon:_
 -Merging Darth Maul Mode Plus with this mod and making the settings work individually so you dont have to change them every time you change modes
 
 
+
+
 [back to top](#top)
 
 -----
@@ -338,6 +358,8 @@ Source: https://gitlab.com/miniwa/clock-mod-quest
 
 
 ![Clock mod image preview](https://cdn.discordapp.com/attachments/693670761453453402/694235741991075860/cover.PNG)
+
+
 [back to top](#top)
 
 -----
@@ -356,11 +378,15 @@ April Fools! Only download if you want a good ol' rick roll.
 
 
 ![Max Rumble image preview](https://cdn.discordapp.com/attachments/693670761453453402/694880058883702874/unknown.png)
+
+
 [back to top](#top)
 
 -----
 <a name="Darth-Maul-Mode-Plus"></a>
 **Darth Maul Lightsaber for one controller**
+
+
 
 [back to top](#top)
 
@@ -376,6 +402,8 @@ I plan to do a bit more with this mod, but I know a lot of you were waiting for 
 
 
 ![PC Burn Marks Mod image preview](https://cdn.discordapp.com/attachments/693670761453453402/694021559438016573/cover.PNG)
+
+
 [back to top](#top)
 
 -----
@@ -391,6 +419,8 @@ The code for this mod is literally 15 lines long (and that's with comments and e
 If you want to see the source code, just DM me and I'll send you literally all of it, lol.
 
 Happy Holidays everyone!
+
+
 
 [back to top](#top)
 
@@ -419,6 +449,8 @@ Source: https://gitlab.com/miniwa/redbar
 Preview: https://streamable.com/dbmzk
 
 
+
+
 [back to top](#top)
 
 -----
@@ -428,6 +460,8 @@ Preview: https://streamable.com/dbmzk
 This mod gets rid of the annoying giant "Level Failed" that takes so much time.
 
 Edit: I forgot to change the version that it was meant to be on so just enable it anyways, it doesnt matter.
+
+
 
 [back to top](#top)
 
@@ -442,6 +476,8 @@ It is best when used with a radially symmetric saber that has words around it.
 Edit: If you want it to spin faster then message me and I will give you one that spins more.
 
 https://streamable.com/ze035
+
+
 
 [back to top](#top)
 
@@ -458,6 +494,8 @@ One hand darth maul mode for oculus quest beat saber!!!
 Download:  https://github.com/riku1227/BSQuest-QuestDarthMaul/releases/download/v1.7.0/QuestDarthMaul_v1.7.0.zip
 
 ![Quest Darth Maul image preview](https://cdn.discordapp.com/attachments/654964358044057603/688706546544541696/Cover.png)
+
+
 [back to top](#top)
 
 -----
@@ -520,6 +558,8 @@ Make sure that these values are floats and not integers (1.0, not 1).
 
 *IF YOU SET YOUR VOLUME TO SOMETHING WAY TOO HIGH AND DAMAGE YOUR HEADSET, THATS ON YOU!
 
+
+
 [back to top](#top)
 
 -----
@@ -541,6 +581,8 @@ Download:
 https://github.com/darknight1050/ChatUI/releases/download/0.1.0/chatui_v0.1.0.zip
 
 Thanks to futuremappermydud for the tutorial.
+
+
 
 [back to top](#top)
 
@@ -567,6 +609,8 @@ Disables:
 This DOES NOT Disable rumble in the menus. its gameplay rumble only!
 
 ![Game Rumble Disabler image preview](https://cdn.discordapp.com/attachments/654964358044057603/669632598099755009/cover.PNG)
+
+
 [back to top](#top)
 
 -----
@@ -585,6 +629,8 @@ If you're switching from the menu click version to the one without, make sure wh
 
 This will work with all versions of 1.6 but won't auto update.
 
+
+
 [back to top](#top)
 
 -----
@@ -594,6 +640,8 @@ This will work with all versions of 1.6 but won't auto update.
 This mod is only for aesthetics and makes notes/bloqs bounce up and down before they come to you.
 
 Gameplay: https://streamable.com/b6ph3
+
+
 
 [back to top](#top)
 
@@ -654,6 +702,8 @@ Thanks to Rugtveit and Sc2ad for letting me cry to them when stuff didn't work.
 Download Link: https://github.com/PinkSaber/PinkSaberDev/raw/master/AdvancedConfigV0.1.1.zip
 
 ![Advanced Config image preview](https://cdn.discordapp.com/attachments/654964358044057603/663551855908880394/unknown.png)
+
+
 [back to top](#top)
 
 -----
@@ -666,6 +716,8 @@ Source code will be available later on github!
 
 reupload because zip file was corrupted
 
+
+
 [back to top](#top)
 
 -----
@@ -677,6 +729,8 @@ made by futuremappermydud
 Removes text on hit
 
 https://www.youtube.com/watch?v=gMGurIbm6Qw
+
+
 
 [back to top](#top)
 
@@ -729,6 +783,8 @@ GitHub (no releases posted yet, just source code here): https://github.com/sc2ad
 The configuration file is located at: /sdcard/Android/data/com.beatgames.beatsaber/files/mod_cfgs/HitScoreVisualizer.json
 
 Having issues? Send @skadman a DM!
+
+
 
 [back to top](#top)
 
@@ -785,6 +841,8 @@ Now you would want to drag it over to mod_cfgs to overwrite the current one that
 Github: https://github.com/Rugtveit/Beatsaber-mods/tree/master/Quest/QSettingsPlus
 
 ![QSettingsPlus image preview](https://cdn.discordapp.com/attachments/654964358044057603/655189011396034580/Untitled.png)
+
+
 [back to top](#top)
 
 -----
