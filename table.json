@@ -87,7 +87,8 @@
                 "text": "Other versions",
                 "link": "https://github.com/darknight1050/RainbowMod/releases"
             }
-        ]
+        ],
+        "desc": "**RainbowMod 0.2.2 (BeatSaber 1.8.0)**\n\nThis mod adds Rainbow Lights, Walls, Sabers, Trails and Notes!\n\nBy default only Lights are enabled. \n\n\n\nUse the **README** for more info (how to edit config): https://github.com/darknight1050/RainbowMod/blob/master/README.md\n\nDownload:\n\nhttps://github.com/darknight1050/RainbowMod/releases/download/0.2.2/rainbowmod_v0.2.2.zip\n\n"
     },
     "Quest Counters": {
         "type": "mod",
@@ -104,7 +105,8 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/693670761453453402/696455923820134530/Quest_Counters-1-1-2.zip"
             }
-        ]
+        ],
+        "desc": "Quest Counters v1.1.2 By Futuremappermydud\n\n \n\n \n\n \n\nCurrent Features\n\n-Total notes hit(ignores combo breakers)\n\n-Total missed / badhit notes\n\n-Notes left\n\n-3 Accuracy related counters new\n\n-percentage of notes hit(the % by the notes hit) new\n\n-Saber Speed(right saber only atm) new\n\n \n\nv1.2.0 Features\n\n-Personal best counter\n\n-Config\n\n \n\nv1.3.0 Features\n\n-Move the counters with config\n\n-some more counters\n\n \n\nBugs\n\n-Notes left counter shows full amount of notes when you use practice mode too change the time\n\n \n\nVideo: https://streamable.com/tbp7fz\n\nGithub: https://github.com/Futuremappermydud/Quest-Counters\n\n"
     },
     "Volume Config": {
         "type": "mod",
@@ -121,7 +123,9 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/693670761453453402/696164225415905290/VolumeChanger.zip"
             }
-        ]
+        ],
+        "desc": "**Volume Config for Beat Saber 1.8.0**\n\nAllows you to edit:\n\n- Good hit volume\n\n- Bad hit volume\n\nThese volume numbers stay constant, essentially meaning it also removes AdaptiveSFX.\n\n",
+        "image": "https://cdn.discordapp.com/attachments/693670761453453402/696164196290658324/cover.PNG"
     },
     "ChromaLite": {
         "type": "mod",
@@ -138,7 +142,9 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/693670761453453402/695780035176431657/ChromaLite.zip"
             }
-        ]
+        ],
+        "desc": "**ChromaLite for Oculus Quest Beat Saber 1.8.0**\n\ni told you 1.8.0 was going to be big for quest modding. :yayy: \n\n\n\nThis is a Quest port of skykiwi's PC Mod 'ChromaLite'. It enables the use of Custom ChromaLite Lighting Events in certain maps which use it.\n\nThanks a ton to @Sc2ad#8836 for helping me figure out stuff!\n\n\n\nExample songs:\n\nhttps://beatsaver.com/beatmap/76a0\n\nhttps://beatsaver.com/beatmap/3705\n\n",
+        "image": "https://i.imgur.com/wHOpndL.png"
     },
     "Notice Board": {
         "type": "mod",
@@ -155,7 +161,9 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/693670761453453402/695704997492686878/NoticeBoard.zip"
             }
-        ]
+        ],
+        "desc": "**Notice Board**\n\nWe're finally releasing! \n\nAfter a long wait we're here to bring you all the Notice Board mod!\n\n\n\n**What does it do exactly?**\n\nThis mod is designed to help you with your modding experience. It will ***never*** interrupt gameplay and will only be noticeable right at the start of the game\n\nThis mod will tell you:\n\n- When a mod updates and where to get it from\n\n- When a mod releases and where to get it from\n\n- When BMBF updates\n\n- When the Game updates \n\n- Tips for common modding issues and how to fix them\n\n\n\n**Whats the point?**\n\nMost of the quest player base are not here or on discord, there's over 100,000 people who've followed online tutorials for BMBF and Modding. Helping these people get the best experience they can is my #1 priority right now. We also aim to highlight the Modders themselves!\n\n\n\n**Last thing!**\n\nThe phrase 'for free' DOES NOT mean mods will be paid for in future, don't worry! It just means that the mod was not a commission, and the mod creator didn't make any money from the mod, hence it released for free.\n\nWere also working on a website! So you can view this news in more detail from wherever you are!\n\n\n\nThe Discord is 'Unavailable' as the server is not ready for any new members, once we re-work it the link will be within the mod! \n\n",
+        "image": "https://cdn.discordapp.com/attachments/693670761453453402/695704974273019904/unknown.png"
     },
     "SongHelper": {
         "type": "mod",
@@ -176,7 +184,8 @@
                 "text": "Other versions",
                 "link": "https://github.com/darknight1050/SongHelper/releases"
             }
-        ]
+        ],
+        "desc": "**SongHelper 0.1.1 (BeatSaber 1.8.0 Update)**\n\nAllows you to scroll in the songlist with your thumbsticks!\n\nDownload:\n\nhttps://github.com/darknight1050/SongHelper/releases/download/0.1.1/songhelper_v0.1.1.zip\n\n"
     },
     "More Options": {
         "type": "mod",
@@ -193,7 +202,8 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/693670761453453402/695400427734433842/moreoptions_v0.1.1.zip"
             }
-        ]
+        ],
+        "desc": "**More Options V0.1.1**\n\nThis mod allows you to move your saber farther than the constrained amount in the settings.\n\n\n\n_Changelog:_\n\n-Updated for 1.8.0\n\n-Values are now stored in between opening and closing Beat Saber\n\n\n\n_What is coming soon:_\n\n-The ability to go past the max of 1.0 in trail intensity, sound effect volume, and global volume\n\n-Merging Darth Maul Mode Plus with this mod and making the settings work individually so you dont have to change them every time you change modes\n\n"
     },
     "Clock mod": {
         "type": "mod",
@@ -210,7 +220,9 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/693670761453453402/694940041562030221/clock.zip"
             }
-        ]
+        ],
+        "desc": "**Clock mod**\n\nYeah uh. It adds a clock.\n\nThats about it.\n\nTheres a config file to play with, though! You can choose between 12 and 24 hour time, to show or not show seconds, and even change the Y-offset of the clocks position if you dont like where i put it!\n\nSource: https://gitlab.com/miniwa/clock-mod-quest\n\n\n\n**Note: scroll down a bit for the download**\n\n",
+        "image": "https://cdn.discordapp.com/attachments/693670761453453402/694235741991075860/cover.PNG"
     },
     "Max Rumble": {
         "type": "mod",
@@ -227,7 +239,9 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/693670761453453402/694880192845447218/MaxRumble.zip"
             }
-        ]
+        ],
+        "desc": "**~~Max Rumble for Beat Saber 1.8.0~~**\n\n\n\n~~- Sets the current rumble to 300000, essentially max.~~\n\n~~- The current game is close to max so it'll be a subtle difference.~~\n\n\n\nApril Fools! Only download if you want a good ol' rick roll.\n\n",
+        "image": "https://cdn.discordapp.com/attachments/693670761453453402/694880058883702874/unknown.png"
     },
     "Honk": {
         "type": "mod",
@@ -255,7 +269,8 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/693670761453453402/694285094973603880/togglemaul_v0.1.0.zip"
             }
-        ]
+        ],
+        "desc": "Darth Maul Lightsaber for one controller\n\n"
     },
     "PC Burn Marks Mod": {
         "type": "mod",
@@ -272,7 +287,9 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/693670761453453402/694021588302954567/BurnMarksMod.zip"
             }
-        ]
+        ],
+        "desc": "**PC Burn Marks Mod 1.1.2 for Beat Saber 1.8.0**\n\n\n\nThis is just for now:tm:\n\nI plan to do a bit more with this mod, but I know a lot of you were waiting for it so here's the old version updated to 1.8.0\n\n",
+        "image": "https://cdn.discordapp.com/attachments/693670761453453402/694021559438016573/cover.PNG"
     },
     "Note Spawn Effect Remover": {
         "type": "mod",
@@ -298,7 +315,8 @@
                 "text": "v1.6.0",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/659107948865519616/notespawneffectremover_v0.1.0.zip"
             }
-        ]
+        ],
+        "desc": "NoteSpawnEffectRemover v0.1.0\n\nWhat does it do?\n\n- Removes the note spawn effect. You know what I'm talking about.\n\nThe code for this mod is literally 15 lines long (and that's with comments and explanations) so it's not on GitHub yet because I am too lazy to either make a new repo or a new project folder just for one mod (forgive me).\n\nIf you want to see the source code, just DM me and I'll send you literally all of it, lol.\n\nHappy Holidays everyone!\n\n"
     },
     "Redbar": {
         "type": "mod",
@@ -315,7 +333,8 @@
                 "text": "LATEST",
                 "link": "https://files.catbox.moe/ri9ku6.zip"
             }
-        ]
+        ],
+        "desc": "**Redbar 1.1.2**\n\nThis mod makes your energy (health) bar change color, based on your current health!\n\nEnjoy!\n\nChanges from 1.0.0:\n\n\\* Colors now smoothly fade instead of randomly appearing/disappearing\n\n\\* You can change all the colors in a config file\n\n\\* Energy bar becomes a rainbow upon full health (you can disable this in config)\n\n\\* Energy bar can fade out when you're close to full health (disabled by default, you can enable this in config)\n\n\\* Beat Saber 1.8 compatability\n\nSource: https://gitlab.com/miniwa/redbar\n\nPreview: https://streamable.com/dbmzk\n\n"
     },
     "ScoresForEver": {
         "type": "mod",
@@ -349,7 +368,8 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/691132686185529364/nolevelfailed_v0.1.0.zip"
             }
-        ]
+        ],
+        "desc": "No Level Failed\n\nThis mod gets rid of the annoying giant \"Level Failed\" that takes so much time.\n\nEdit: I forgot to change the version that it was meant to be on so just enable it anyways, it doesnt matter.\n\n"
     },
     "Spinny Saber": {
         "type": "mod",
@@ -366,7 +386,8 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/690782005805318144/SpinningSabers.zip"
             }
-        ]
+        ],
+        "desc": "Spinny Saber\n\nThis makes your sabers spin for aesthetics.\n\nIt is best when used with a radially symmetric saber that has words around it.\n\nEdit: If you want it to spin faster then message me and I will give you one that spins more.\n\nhttps://streamable.com/ze035\n\n"
     },
     "Quest Darth Maul": {
         "type": "mod",
@@ -383,7 +404,9 @@
                 "text": "LATEST",
                 "link": "https://github.com/riku1227/BSQuest-QuestDarthMaul/releases/download/v1.7.0/QuestDarthMaul_v1.7.0.zip"
             }
-        ]
+        ],
+        "desc": "Quest Darth Maul\n\nSupport version: v1.6.3, v1.7.0\n\nOne hand darth maul mode for oculus quest beat saber!!!\n\n\n\nDownload:  https://github.com/riku1227/BSQuest-QuestDarthMaul/releases/download/v1.7.0/QuestDarthMaul_v1.7.0.zip\n\n",
+        "image": "https://cdn.discordapp.com/attachments/654964358044057603/688706546544541696/Cover.png"
     },
     "VolumeChanger aka AdaptiveSFXRemover": {
         "type": "mod",
@@ -405,7 +428,8 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/685184021512060932/VolumeChanger.zip"
             }
-        ]
+        ],
+        "desc": "VolumeChanger 1.0.2 (BeatSaber 1.7.0 Update)\n\naka AdaptiveSFXRemover\n\nThis is half a port of @Shadnix 's PC Mod, 'AdaptiveSFXRemover'\n\n\n\nAs soon as the mod is enabled, it will disable the AdaptiveSFX.\n\nSet SFX Volume on the left hand side in Player Settings to 1.0 for best results!\n\nOn top of that the mod allows you individually to edit your:\n\n- Cut Sound Volume\n\n- Bad Cut Sound Volume\n\n- Main Menu Music & Song Previews Volume\n\n\n\nAll of this is done by a config file, NOT IN GAME.\n\nLoad the mod up once and a file will be created in the path below which you can then edit to your likings.\n\nDownload the config file from that path to your PC, edit it on your PC then delete the old file from your quest and upload the new one. If any config file on your quest contains [1] then you have done it wrong! they MUST be named the same thing.\n\n\n\nAll custom sound effect mods you currently have installed will work with this mod!\n\n\n\nFile path:\n\nAndroid/data/com.beatgames.beatsaber/files/mod_cfgs/\n\n\n\nConfig Example:\n\n{\n\n    \"goodCutVolume\": 1.41,\n\n    \"badCutVolume\": 0.31,\n\n    \"OverallMenuVolume\": 1.0\n\n}\n\n\n\nMake sure that these values are floats and not integers (1.0, not 1).\n\n*IF YOU SET YOUR VOLUME TO SOMETHING WAY TOO HIGH AND DAMAGE YOUR HEADSET, THATS ON YOU!\n\n"
     },
     "ChatUI": {
         "type": "mod",
@@ -435,7 +459,8 @@
                 "text": "config tutorial video",
                 "link": "https://youtu.be/Hel0wYPph4w"
             }
-        ]
+        ],
+        "desc": "ChatUI 0.1.0 (BeatSaber 1.7.0 Update)\n\nTwitchChat InGame!\n\nYou HAVE to edit the Config for it to work! here is a tutorial: https://futuremappermydud.github.io/chatsite/\n\nHere is a Video how to edit the Config:\n\nhttps://youtu.be/Hel0wYPph4w\n\nConfig will be created the first time you launch beatsaber with the mod installed.\n\nDownload:\n\nhttps://github.com/darknight1050/ChatUI/releases/download/0.1.0/chatui_v0.1.0.zip\n\nThanks to futuremappermydud for the tutorial.\n\n"
     },
     "Game Rumble Disabler": {
         "type": "mod",
@@ -452,7 +477,9 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/669632647269711904/RumbleDisabler.zip"
             }
-        ]
+        ],
+        "desc": "Game Rumble Disabler V1.0.1, Should work on 99% of game versions\n\nWARNING, YOU REQUESTED IT BUT IT FEELS WEIRD AS FUCK. IM NOT KIDDING... YOUR ACTIONS HAVE CONSEQUENCES. YOU'LL PROBABLY DISABLE IT, THIS MOD FEELS SUPER WEIRD.\n\n\n\nDisables:\n\n- Wall Collision Rumble\n\n- Saber Clash Rumble\n\n- Note Clash Rumble\n\n- Bomb Clash Rumble\n\n\n\nThis DOES NOT Disable rumble in the menus. its gameplay rumble only!\n\n",
+        "image": "https://cdn.discordapp.com/attachments/654964358044057603/669632598099755009/cover.PNG"
     },
     "OSU Click Note Hit Sound": {
         "type": "mod",
@@ -483,7 +510,8 @@
                 "text": "No menu click",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/668868434297356288/OSUClickv1.1.1for1.6.x-NoMenuClick.zip"
             }
-        ]
+        ],
+        "desc": "OSU Click Note Hit Sound v1.1.1! - 1.6.x (Repost because I posted the wrong zips)\n\nNow makes your blocks and menu clicky! But if you don't like the sound of that, there's now a version without the menu click.\n\nThis version also contains a quieter menu click and the menu click is now centered rather than playing out of the right more than the left! Thanks to @Pink  and @(\u256f\u00b0\u25a1\u00b0)\u256f\ufe35s\u0253u\u1d09\ua4d8\u07c8\u1614  for helping with that.\n\n\n\nIf you're switching from the menu click version to the one without, make sure when you disable the mod, sync, then remove it because during testing I accidentally got rid of the menu sound by not syncing in between.\n\n\n\nThis will work with all versions of 1.6 but won't auto update.\n\n"
     },
     "Note Bounce": {
         "type": "mod",
@@ -500,7 +528,8 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/665759437616709642/NoteBounce.zip"
             }
-        ]
+        ],
+        "desc": "Note/Bloq Bounce V1.0.0 for Beat Saber 1.6.0\n\nThis mod is only for aesthetics and makes notes/bloqs bounce up and down before they come to you.\n\nGameplay: https://streamable.com/b6ph3\n\n"
     },
     "Advanced Config": {
         "type": "mod",
@@ -517,7 +546,9 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/663552334109868045/AdvancedConfigV0.1.1.zip"
             }
-        ]
+        ],
+        "desc": "Advanced Config v0.1.1 for BeatSaber 1.6.0\n\nWant a mod which violates god? ME TOO!\n\nHere you go, have advanced config.\n\n\n\nWhat does it do I hear no one ask?\n\n- Change your Slash Volume\n\n(Ive not set a limit, go crazy! just dont break your headset)\n\n- Change your Bad Cut Volume\n\n(0.0 Means the Bad Cut/Bomb Sound gets completely muted. no seriously don't blame me if you set it to 1000.0 and break your headset, there could be a base game limit tho.)\n\n- Disable the new Adaptive SFX\n\n(This is a port of Shadnix's AdaptiveSFXRemover v1.0.1, I genuinely don't know if it works or not as my ears aren't good enough to tell. Please message me Pink#3877 if it works or not)\n\n- Disable the Flashing E on the 'Beat Saber' Sign in menus\n\n- Disable the 'Flying Score Effect'\n\n(The 1-115 Numbers which show up after you slash a note)\n\n- Change the Overall Menu Volume\n\n(Doesn't effect the click sound, but every other sound in the menu changes to whatever you set. like genuinely don't break your headset)\n\n- Updated to the latest BS Hook\n\n\n\nTHIS MOD DOESNT HAVE ANY UI!\n\nTo change all of these values, you must edit its config file which is located in\n\nThis PC\\Quest\\Internal shared storage\\Android\\data\\com.beatgames.beatsaber\\files\\mod_cfgs\\AdvancedConfig.json\n\n\n\nConfig options are below and are pretty self explanatory.\n\n\n\nThanks to Rugtveit and Sc2ad for letting me cry to them when stuff didn't work.\n\n\n\nDownload Link: https://github.com/PinkSaber/PinkSaberDev/raw/master/AdvancedConfigV0.1.1.zip\n\n",
+        "image": "https://cdn.discordapp.com/attachments/654964358044057603/663551855908880394/unknown.png"
     },
     "No Health and Safety": {
         "type": "mod",
@@ -534,7 +565,8 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/661712826179518548/No_Health_and_Safety.zip"
             }
-        ]
+        ],
+        "desc": "No Health and Safety v1.0.0\n\nThis mod skips over the health and safety on startup!\n\nSource code will be available later on github! \n\nreupload because zip file was corrupted\n\n"
     },
     "Be Gone Scores": {
         "type": "mod",
@@ -556,7 +588,8 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/658753973360263219/xscore.zip"
             }
-        ]
+        ],
+        "desc": "Be Gone Scores \n\nmade by futuremappermydud\n\nRemoves text on hit\n\nhttps://www.youtube.com/watch?v=gMGurIbm6Qw\n\n"
     },
     "Hit Score Visualizer": {
         "type": "mod",
@@ -573,7 +606,8 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/657311587769516091/hitscorevisualizer_v3.0.1.zip"
             }
-        ]
+        ],
+        "desc": "HitScoreVisualizer 3.0.1 for Oculus Quest\n\nWhy the repost? You couldn't change config, it would always get set back to default.\n\nORIGINAL POST:\n\nIt's been quite some time since I last updated this mod, but trust me, it was worth it.\n\nI've added quite a few things, as well as improved the performance a ton.\n\n\n\nHere's the current feature list:\n\n- Displays colorful text every time you cut a block\n\n- Supports configuration files that are identical to configuration files from the PC HitScoreVisualizer mod\n\n- Supports custom text, configurable thresholds, and more all within the configuration file\n\n- Has seasonal configurations (With a special treat coming soon within the next few days!)\n\n\n\nBut there's much more to come! I plan on adding the following within the next few days:\n\n- Configurable text and colors from IN GAME!\n\n- More seasonal configurations\n\n- More configurable options (did someone say particles?)\n\n- Even more performance updates\n\n- Color fading and customizable colors within the text (rainbow colored text!)\n\n\n\nThis mod works on Beat Saber v1.6.x and BMBF v1.5.0, as well as Beat Saber v1.7.0 with BMBF v1.7.0\n\nThis mod has also been submitted to the Christmas BSMG Competition! I strongly recommend submitting something you have made as well!\n\nGitHub (no releases posted yet, just source code here): https://github.com/sc2ad/QuestHitScoreVisualizer/tree/dev_hsv/hitscorevisualizer\n\nThe configuration file is located at: /sdcard/Android/data/com.beatgames.beatsaber/files/mod_cfgs/HitScoreVisualizer.json\n\nHaving issues? Send @skadman a DM!\n\n"
     },
     "QSettingsPlus": {
         "type": "mod",
@@ -590,7 +624,9 @@
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/655188906882629663/QSettingsPlus.zip"
             }
-        ]
+        ],
+        "desc": "QSettingsPlus\n\n  Features: \n\n- Being able to disable and enable things with config!\n\n- What you can enable and disable: \n\n     - Saber Glow \n\n     - Wall Transparrency \n\n     - Wall Glow\n\n- decrease or increase particles to be between 0 to 50 when cutting a cube! \n\n\n\nKnown bugs:\n\nWall frame doesn't get a color\n\n\n\nHow do I change the settings? \n\n\n\nFirst time after you have opened Beat Saber with QSettingsPlus it will create a config!\n\n\n\nYou can find the config in Quest \u2192 Android \u2192 data \u2192 com.beatgames.beatsaber \u2192 files \u2192 mod_cfgs\n\n\n\nYou open QSettingsPlus.Json in preferred text editor \n\nand change example GlowOnWalls to be \"true\" if you want the glow back.\n\n\n\nWhen you want to save you do file \u2192 save as and choose a place like desktop and save it as QSettingsPlus.json \n\n\n\nNow you would want to drag it over to mod_cfgs to overwrite the current one that's created!\n\nGithub: https://github.com/Rugtveit/Beatsaber-mods/tree/master/Quest/QSettingsPlus\n\n",
+        "image": "https://cdn.discordapp.com/attachments/654964358044057603/655189011396034580/Untitled.png"
     },
     "Seat Baber Menu title": {
         "type": "asset",

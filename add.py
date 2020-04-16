@@ -73,10 +73,15 @@ def save_md_desc(type):
         if item["type"] == type:
                 if item.get("desc", ""):
                     desc_md += '<a name="' + mod_name_new.replace(" ", "-") + '"></a>\n'
-                    desc_md += item["desc"] + "\n"
+                    if item["desc"][:2] == "**":
+                        desc_md += item["desc"] + "\n"
+                    else: 
+                        desc = item["desc"]
+                        desc_md += "**" + desc[:desc.find("\n\n")] + "**" + desc[desc.find("\n\n"):]
                 if item.get("image", ""):
                     desc_md += "![" + mod_name + " image preview]("+item["image"]+")\n" 
                 if item.get("desc", ""):
+                    desc_md += "[back to top](#top)\n\n"
                     desc_md += "-----\n"
     return desc_md
 
