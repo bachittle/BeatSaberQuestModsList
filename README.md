@@ -50,6 +50,7 @@ Compatible | Mod Name | Author(s) and Github Link | Downloads
 :x:| [Be Gone Scores](#Be-Gone-Scores) | <ul><li>darknight1050</li><li>futuremappermydud (author)</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/658753973360263219/xscore.zip)</li></ul>
 :x:| [Hit Score Visualizer](#Hit-Score-Visualizer) | <ul><li>[Sc2ad](https://github.com/sc2ad/QuestHitScoreVisualizer/tree/dev_hsv/hitscorevisualizer)</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/657311587769516091/hitscorevisualizer_v3.0.1.zip)</li></ul>
 :x:| [QSettingsPlus](#QSettingsPlus) | <ul><li>Rugtveit</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/655188906882629663/QSettingsPlus.zip)</li></ul>
+:heavy_check_mark:| [No Fail Check](#No-Fail-Check) | <ul><li>[futuremappermydud](https://github.com/Futuremappermydud/NoFailCheck-Quest)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/700461279311167508/nofailcheck_v0.1.0.zip)</li></ul>
 
 ### Assets
 Compatible | Mod Name | Author(s) and Github Link | Downloads
@@ -795,6 +796,21 @@ Now you would want to drag it over to mod_cfgs to overwrite the current one that
 Github: https://github.com/Rugtveit/Beatsaber-mods/tree/master/Quest/QSettingsPlus
 
 ![QSettingsPlus image preview](https://cdn.discordapp.com/attachments/654964358044057603/655189011396034580/Untitled.png)
+
+[back to top](#top)
+
+-----
+<a name="No-Fail-Check"></a>
+**No Fail Check 0.1.0 for Beat Saber 1.9.0**
+
+Source code at https://github.com/Futuremappermydud/NoFailCheck-Quest
+
+Currently does not have double clicks working but the text changing works!
+
+
+
+Basicly when you have no fail activated it changes the play text too "No Fail!" and when its working it will require you too double click the button
+
 
 [back to top](#top)
 

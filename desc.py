@@ -26,3 +26,5 @@ for mod_name in table_json.keys():
         fp = open("table.json", "w")
         json.dump(table_json, fp, indent=4)
         fp.close()
+
+print("all done!")
