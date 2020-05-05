@@ -1,36 +1,21 @@
 
-# Beat Saber Mods list for the Oculus Quest
-If you don't know anything about installing mods, [click here.](https://bsmg.wiki/quest-modding.html) </br>
-latest version of Beat Saber: (v1.9.0)
-
-#### Legend
-:heavy_check_mark: - Compatible with latest version </br>
-:x: - Not confirmed to be compatible with latest version </br>
-
-**NOTE: if the version is incompatible it may still work, it just isn't confirmed to work**
-
-<a name="top"></a>
-## Table of Contents
-
-- Click on the mod name link for more information about the mod.
-- Click on the author name to go to their github page
-
-<!--add more items with add.py-->
+### Mods
+Compatible | Mod Name 
 ### Mods
 Compatible | Mod Name | Author(s) and Github Link | Downloads
 -----------|----------|---------|--------
-:heavy_check_mark:| [No Fail Check](#No-Fail-Check) | <ul><li>[futuremappermydud](https://github.com/Futuremappermydud/NoFailCheck-Quest)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/700461279311167508/nofailcheck_v0.1.0.zip)</li></ul>
+:heavy_check_mark:| [No Fail Check](#No-Fail-Check) | <ul><li>[futuremappermydud](https://github.com/Futuremappermydud/NoFailCheck-Quest)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/701898545673797652/nofailcheck_v0.1.0.zip)</li></ul>
 :heavy_check_mark:| [Mapping Extensions](#Mapping-Extensions) | <ul><li>[Michael Zoller (updated to latest version)](https://github.com/zoller27osu/QuestMods/tree/master/MappingExtensions)</li><li>[Lord Kyle (original author)](https://github.com/Kylemc1413/QuestMods/tree/master/MappingExtensions)</li><li>Pink (testing)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/699422255880470608/MappingExtensions.zip)</li><li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/655856233126821920/MappingExtensions_0.15.0.zip)</li></ul>
 :heavy_check_mark:| [Intro Skip](#Intro-Skip) | <ul><li>April is Very Fun</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/698576745829499010/introskip_v0.1.0.zip)</li></ul>
 :heavy_check_mark:| [Motion Blur Disabler](#Motion-Blur-Disabler) | <ul><li>futuremappermydud</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/697858728157905066/libmbdisabler.zip)</li></ul>
 :x:| [Rainbow Mod](#Rainbow-Mod) | <ul><li>[darknight1050](https://github.com/darknight1050/RainbowMod)</li></ul> | <li>[**Latest (v1.8.0)**](https://github.com/darknight1050/RainbowMod/releases/download/0.2.21/rainbowmod_v0.2.21.zip)</li><li>[Other versions](https://github.com/darknight1050/RainbowMod/releases)</li></ul>
-:x:| [Quest Counters](#Quest-Counters) | <ul><li>[futuremappermydud](https://github.com/Futuremappermydud/Quest-Counters)</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/696455923820134530/Quest_Counters-1-1-2.zip)</li></ul>
+:heavy_check_mark:| [Quest Counters](#Quest-Counters) | <ul><li>[futuremappermydud](https://github.com/Futuremappermydud/Quest-Counters)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/705506437589106708/bmbfmod.zip)</li><li>[v1.8.0](https://cdn.discordapp.com/attachments/693670761453453402/696455923820134530/Quest_Counters-1-1-2.zip)</li></ul>
 :x:| [Volume Config](#Volume-Config) | <ul><li>Pink</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/696164225415905290/VolumeChanger.zip)</li></ul>
 :x:| [ChromaLite](#ChromaLite) | <ul><li>Pink</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/695780035176431657/ChromaLite.zip)</li></ul>
 :x:| [Notice Board](#Notice-Board) | <ul><li>Pink</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/695704997492686878/NoticeBoard.zip)</li></ul>
 :x:| [SongHelper](#SongHelper) | <ul><li>[darknight1050](https://github.com/darknight1050/SongHelper)</li></ul> | <li>[**Latest (v1.8.0)**](https://github.com/darknight1050/SongHelper/releases/download/0.1.1/songhelper_v0.1.1.zip)</li><li>[Other versions](https://github.com/darknight1050/SongHelper/releases)</li></ul>
 :x:| [More Options](#More-Options) | <ul><li>April is very fun</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/695400427734433842/moreoptions_v0.1.1.zip)</li></ul>
-:x:| [Clock mod](#Clock-mod) | <ul><li>Miniwa</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694940041562030221/clock.zip)</li></ul>
+:heavy_check_mark:| [Clock mod](#Clock-mod) | <ul><li>Miniwa</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/702133646714339448/clock.zip)</li><li>[v1.8.0](https://cdn.discordapp.com/attachments/693670761453453402/694940041562030221/clock.zip)</li></ul>
 :x:| [Max Rumble](#Max-Rumble) | <ul><li>Pink</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694880192845447218/MaxRumble.zip)</li></ul>
 :x:| Honk | <ul></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694743683752263690/Honk.zip)</li></ul>
 :x:| [Darth Maul Mode Plus](#Darth-Maul-Mode-Plus) | <ul><li>April is very fun</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694285094973603880/togglemaul_v0.1.0.zip)</li></ul>
@@ -47,10 +32,14 @@ Compatible | Mod Name | Author(s) and Github Link | Downloads
 :x:| [OSU Click Note Hit Sound](#OSU-Click-Note-Hit-Sound) | <ul><li>Ryan (author)</li><li>Pink (help)</li><li>24Kings (help)</li></ul> | <li>[**Latest (v1.6.x)**](https://cdn.discordapp.com/attachments/654964358044057603/668868417108836382/OSUClickv1.1.1for1.6.x.zip)</li><li>[No menu click](https://cdn.discordapp.com/attachments/654964358044057603/668868434297356288/OSUClickv1.1.1for1.6.x-NoMenuClick.zip)</li></ul>
 :x:| [Note Bounce](#Note-Bounce) | <ul><li>April is very fun</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/665759437616709642/NoteBounce.zip)</li></ul>
 :x:| [Advanced Config](#Advanced-Config) | <ul><li>Pink</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/663552334109868045/AdvancedConfigV0.1.1.zip)</li></ul>
-:x:| [No Health and Safety](#No-Health-and-Safety) | <ul><li>Rugtveit</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/661712826179518548/No_Health_and_Safety.zip)</li></ul>
-:x:| [Be Gone Scores](#Be-Gone-Scores) | <ul><li>darknight1050</li><li>futuremappermydud (author)</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/658753973360263219/xscore.zip)</li></ul>
+:heavy_check_mark:| [No Health and Safety](#No-Health-and-Safety) | <ul><li>Rugtveit</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/703004720943333447/NoHealthandSafety.zip)</li><li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/661712826179518548/No_Health_and_Safety.zip)</li></ul>
+:heavy_check_mark:| [Be Gone Scores](#Be-Gone-Scores) | <ul><li>darknight1050</li><li>[futuremappermydud (author)](https://github.com/Futuremappermydud/Begonescores)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/701901587718865006/Begonescores.zip)</li><li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/658753973360263219/xscore.zip)</li></ul>
 :x:| [Hit Score Visualizer](#Hit-Score-Visualizer) | <ul><li>[Sc2ad](https://github.com/sc2ad/QuestHitScoreVisualizer/tree/dev_hsv/hitscorevisualizer)</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/657311587769516091/hitscorevisualizer_v3.0.1.zip)</li></ul>
-:x:| [QSettingsPlus](#QSettingsPlus) | <ul><li>Rugtveit</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/655188906882629663/QSettingsPlus.zip)</li></ul>
+:heavy_check_mark:| [QSettingsPlus](#QSettingsPlus) | <ul><li>Rugtveit</li></ul> | <li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/655188906882629663/QSettingsPlus.zip)</li><li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/703005711193604195/QSettingsPlus.zip)</li></ul>
+:heavy_check_mark:| Song Preview Extender | <ul><li>L_</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/706956896078135418/idk_v0.2.0.zip)</li></ul>
+:heavy_check_mark:| Beef Saber | <ul><li>futuremappermydud</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/705507256816500766/beefsaber_v0.1.0.zip)</li></ul>
+:heavy_check_mark:| Custom Trail Length | <ul><li>futuremappermydud</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/704074771503120494/bmbfmod.zip)</li></ul>
+:heavy_check_mark:| FPS Counter | <ul><li>Rugtveit</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/703005175945756763/FpsCounter.zip)</li></ul>
 
 ### Assets
 Compatible | Mod Name | Author(s) and Github Link | Downloads
@@ -684,13 +673,9 @@ Download Link: https://github.com/PinkSaber/PinkSaberDev/raw/master/AdvancedConf
 
 -----
 <a name="No-Health-and-Safety"></a>
-**No Health and Safety v1.0.0**
+**No Health and Safety v1.0.0 for 1.9.0**
 
 This mod skips over the health and safety on startup!
-
-Source code will be available later on github! 
-
-reupload because zip file was corrupted
 
 [back to top](#top)
 
@@ -818,4 +803,4 @@ Github: https://github.com/Rugtveit/Beatsaber-mods/tree/master/Quest/QSettingsPl
 
 ## Asset Descriptions
 ----
-<!--add more items with add.py-->
+

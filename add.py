@@ -106,7 +106,7 @@ def save_file():
     index1 = table_str.find(key)
     index2 = table_str.rfind(key)
 
-    fp = open("README.md", "w")
+    fp = open("README.md", "w", encoding="utf-8")
     fp.write(table_str[:index1 + len(key)] + table_md + table_str[index2:])
     fp.close()
 

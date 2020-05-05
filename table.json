@@ -12,7 +12,7 @@
         "downloads": [
             {
                 "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693670761453453402/700461279311167508/nofailcheck_v0.1.0.zip"
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/701898545673797652/nofailcheck_v0.1.0.zip"
             }
         ],
         "desc": "**No Fail Check 0.1.0 for Beat Saber 1.9.0**\n\nSource code at https://github.com/Futuremappermydud/NoFailCheck-Quest\n\nCurrently does not have double clicks working but the text changing works!\n\n\n\nBasicly when you have no fail activated it changes the play text too \"No Fail!\" and when its working it will require you too double click the button\n\n"
@@ -110,7 +110,7 @@
     },
     "Quest Counters": {
         "type": "mod",
-        "version": "v1.8.0",
+        "version": "v1.9.0",
         "authors": [
             {
                 "name": "futuremappermydud",
@@ -121,6 +121,10 @@
         "downloads": [
             {
                 "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/705506437589106708/bmbfmod.zip"
+            },
+            {
+                "text": "v1.8.0",
                 "link": "https://cdn.discordapp.com/attachments/693670761453453402/696455923820134530/Quest_Counters-1-1-2.zip"
             }
         ],
@@ -225,7 +229,7 @@
     },
     "Clock mod": {
         "type": "mod",
-        "version": "v1.8.0",
+        "version": "v1.9.0",
         "authors": [
             {
                 "name": "Miniwa",
@@ -236,6 +240,10 @@
         "downloads": [
             {
                 "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/702133646714339448/clock.zip"
+            },
+            {
+                "text": "v1.8.0",
                 "link": "https://cdn.discordapp.com/attachments/693670761453453402/694940041562030221/clock.zip"
             }
         ],
@@ -570,7 +578,7 @@
     },
     "No Health and Safety": {
         "type": "mod",
-        "version": "v1.6.0",
+        "version": "v1.9.0",
         "authors": [
             {
                 "name": "Rugtveit",
@@ -581,14 +589,18 @@
         "downloads": [
             {
                 "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/703004720943333447/NoHealthandSafety.zip"
+            },
+            {
+                "text": "v1.6.0",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/661712826179518548/No_Health_and_Safety.zip"
             }
         ],
-        "desc": "No Health and Safety v1.0.0\n\nThis mod skips over the health and safety on startup!\n\nSource code will be available later on github! \n\nreupload because zip file was corrupted\n\n"
+        "desc": "No Health and Safety v1.0.0 for 1.9.0\n\nThis mod skips over the health and safety on startup!\n\n"
     },
     "Be Gone Scores": {
         "type": "mod",
-        "version": "v1.6.0",
+        "version": "v1.9.0",
         "authors": [
             {
                 "name": "darknight1050",
@@ -598,12 +610,16 @@
             {
                 "name": "futuremappermydud",
                 "contributions": "author",
-                "github": ""
+                "github": "https://github.com/Futuremappermydud/Begonescores"
             }
         ],
         "downloads": [
             {
                 "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/701901587718865006/Begonescores.zip"
+            },
+            {
+                "text": "v1.6.0",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/658753973360263219/xscore.zip"
             }
         ],
@@ -629,7 +645,7 @@
     },
     "QSettingsPlus": {
         "type": "mod",
-        "version": "v1.6.0",
+        "version": "v1.9.0",
         "authors": [
             {
                 "name": "Rugtveit",
@@ -639,8 +655,12 @@
         ],
         "downloads": [
             {
-                "text": "LATEST",
+                "text": "v1.6.0",
                 "link": "https://cdn.discordapp.com/attachments/654964358044057603/655188906882629663/QSettingsPlus.zip"
+            },
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/703005711193604195/QSettingsPlus.zip"
             }
         ],
         "desc": "QSettingsPlus\n\n  Features: \n\n- Being able to disable and enable things with config!\n\n- What you can enable and disable: \n\n     - Saber Glow \n\n     - Wall Transparrency \n\n     - Wall Glow\n\n- decrease or increase particles to be between 0 to 50 when cutting a cube! \n\n\n\nKnown bugs:\n\nWall frame doesn't get a color\n\n\n\nHow do I change the settings? \n\n\n\nFirst time after you have opened Beat Saber with QSettingsPlus it will create a config!\n\n\n\nYou can find the config in Quest \u2192 Android \u2192 data \u2192 com.beatgames.beatsaber \u2192 files \u2192 mod_cfgs\n\n\n\nYou open QSettingsPlus.Json in preferred text editor \n\nand change example GlowOnWalls to be \"true\" if you want the glow back.\n\n\n\nWhen you want to save you do file \u2192 save as and choose a place like desktop and save it as QSettingsPlus.json \n\n\n\nNow you would want to drag it over to mod_cfgs to overwrite the current one that's created!\n\nGithub: https://github.com/Rugtveit/Beatsaber-mods/tree/master/Quest/QSettingsPlus\n\n",
@@ -1251,6 +1271,74 @@
             {
                 "text": "LATEST",
                 "link": "https://cdn.discordapp.com/attachments/693694678922690600/695808324461133914/Toothpick_saber.zip"
+            }
+        ]
+    },
+    "Song Preview Extender": {
+        "version": "v1.9.0",
+        "type": "mod",
+        "authors": [
+            {
+                "name": "L_",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/706956896078135418/idk_v0.2.0.zip"
+            }
+        ]
+    },
+    "Beef Saber": {
+        "version": "v1.9.0",
+        "type": "mod",
+        "authors": [
+            {
+                "name": "futuremappermydud",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/705507256816500766/beefsaber_v0.1.0.zip"
+            }
+        ]
+    },
+    "Custom Trail Length": {
+        "version": "v1.9.0",
+        "type": "mod",
+        "authors": [
+            {
+                "name": "futuremappermydud",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/704074771503120494/bmbfmod.zip"
+            }
+        ]
+    },
+    "FPS Counter": {
+        "version": "v1.9.0",
+        "type": "mod",
+        "authors": [
+            {
+                "name": "Rugtveit",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/703005175945756763/FpsCounter.zip"
             }
         ]
     }
