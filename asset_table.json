@@ -1,0 +1,610 @@
+{
+    "Seat Baber Menu title": {
+        "type": "asset",
+        "version": "v1.9.0",
+        "authors": [
+            {
+                "name": "Mathias",
+                "contributions": "author",
+                "github": ""
+            },
+            {
+                "name": "Xrayxout",
+                "contributions": "commissioner",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/699698909882089602/SeatBaber.zip"
+            }
+        ]
+    },
+    "bazinga sound mod": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "jul7892",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/699986410593320960/bazinga_sound_mod.zip"
+            },
+            {
+                "text": "OGG sound file",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/699987090741526558/MenuClick.ogg"
+            }
+        ]
+    },
+    "Cal Kestis Lightsaber": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Alex",
+                "contributions": "author",
+                "github": ""
+            },
+            {
+                "name": "shadowchild789",
+                "contributions": "commissioner",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/699347353240600716/Cal_Kestis_Asset.zip"
+            }
+        ]
+    },
+    "Bruh Saber Logo V1": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Barack Obama",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698619749814239286/BruhSaberLogoV1.zip"
+            }
+        ]
+    },
+    "Galaxy V2 Asset saber": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Alex",
+                "contributions": "author",
+                "github": ""
+            },
+            {
+                "name": "Altair2",
+                "contributions": "resources",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698286999001366578/GalaxyV2.zip"
+            }
+        ]
+    },
+    "Honk Trail": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Simme63",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698187914370220032/honk_trail.zip"
+            },
+            {
+                "text": "Alternate (v1.9.0)",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188723011059816/honk_trail.zip"
+            }
+        ]
+    },
+    "Butter Cat Trail": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Simme63",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188035858366484/butter_cat_trail.zip"
+            }
+        ]
+    },
+    "White Guy Blinking Trail": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Simme63",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188222500700210/white_guy_blinking_trail.zip"
+            }
+        ]
+    },
+    "Sans Trail": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Simme63",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188315282636830/sands_trail.zip"
+            }
+        ]
+    },
+    "Peodd Trail": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Simme63",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188379493236756/peodd.zip"
+            }
+        ]
+    },
+    "Wave Trail": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Simme63",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188586029285446/wave_trail.zip"
+            }
+        ]
+    },
+    "Plasma Katana Trail": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Simme63",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188814824374323/plasma_katana_trail_maybe.zip"
+            }
+        ]
+    },
+    "Smol Trail": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Simme63",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188913021419621/smol_trail.zip"
+            },
+            {
+                "text": "smol trail 2 (v1.9.0)",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188989613473882/Smol_trail_2.zip"
+            }
+        ]
+    },
+    "Fire Trail": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Sands",
+                "contributions": "author",
+                "github": ""
+            },
+            {
+                "name": "Simme63",
+                "contributions": "testing and helping",
+                "github": ""
+            },
+            {
+                "name": "chromavr",
+                "contributions": "fixing bugs and issues",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697833020748726352/FireTrail.zip"
+            },
+            {
+                "text": "v1.8.0",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696034001672208384/FireTrail.zip"
+            }
+        ]
+    },
+    "Lines Trail": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Sands",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697833094228475944/LinesTrail.zip"
+            },
+            {
+                "text": "v1.8.0",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696432771253403749/LinesTrail.zip"
+            }
+        ]
+    },
+    "Triangle Trail": {
+        "version": "v1.9.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Sands",
+                "contributions": "author",
+                "github": ""
+            },
+            {
+                "name": "Simme63",
+                "contributions": "testing and helping",
+                "github": ""
+            },
+            {
+                "name": "chromavr",
+                "contributions": "fixing bugs and issues",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697833169499717652/TriangleTrail.zip"
+            },
+            {
+                "text": "v1.8.0",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696063439608610816/TriangleTrail.zip"
+            }
+        ]
+    },
+    "Neon Chokuto": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Mathias",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697162080909918298/NeonChokuto1.8.0.zip"
+            },
+            {
+                "text": "Inverted Neon Chokuto v1.8.0",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697162186019307540/NeonChokutoInverted1.8.0.zip"
+            }
+        ]
+    },
+    "Unnamed Osu Hitsound": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "professor honk",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697149879138385940/UnnamedOsuSoundV1.zip"
+            }
+        ]
+    },
+    "Pro Trail": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "professor honk",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697150116687118426/ProTrailV1.0.0.zip"
+            }
+        ]
+    },
+    "WireGemSabers": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Gladpus",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697078105336184993/WireGemSaber_102.zip"
+            }
+        ]
+    },
+    "RedRumbler Beatsaber Logos": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "RedRumbler",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/BeatSaberLogos"
+            }
+        ]
+    },
+    "RedRumbler Trails": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "RedRumbler",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/SaberTrails"
+            }
+        ]
+    },
+    "Kick Hitsound": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "professor honk",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696580959184748554/KickSoundV1.0.0.zip"
+            },
+            {
+                "text": "GoodHit OGG Soundfile",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696580982245163038/GoodHit.ogg"
+            }
+        ]
+    },
+    "Dot Trail": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "professor honk",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696479386517504010/DotTrailV1.zip"
+            }
+        ]
+    },
+    "Galaxy Trail": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "professor honk",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696476809860218940/GalaxyTrailV1.zip"
+            }
+        ]
+    },
+    "Cool Trail": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "professor honk",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696474069457174548/CoolTrailV2.zip"
+            }
+        ]
+    },
+    "Softer OSU Click Hit Sounds": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Emerald",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696402525686857759/Softer_OSU_Click.zip"
+            },
+            {
+                "text": "GoodHit.OGG",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696402540576636978/GoodHit.ogg"
+            }
+        ]
+    },
+    "Grip N' Rip Sabers": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Emerald",
+                "contributions": "ported to quest",
+                "github": ""
+            },
+            {
+                "name": "Zennysama",
+                "contributions": "original author",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696352626450759720/Grip_N_Rip.zip"
+            }
+        ]
+    },
+    "Fortnite Logo": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Emerald",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696283228826370048/Fortnite_logo.zip"
+            }
+        ]
+    },
+    "Minecraft Menu Music": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Tohkan2D",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696072237442400296/MinecraftMenuMusic.zip"
+            }
+        ]
+    },
+    "Toothpick Saber": {
+        "version": "v1.8.0",
+        "type": "asset",
+        "authors": [
+            {
+                "name": "Alex",
+                "contributions": "author",
+                "github": ""
+            },
+            {
+                "name": "timothy10583",
+                "contributions": "commissioner",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693694678922690600/695808324461133914/Toothpick_saber.zip"
+            }
+        ]
+    }
+}

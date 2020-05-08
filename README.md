@@ -8,14 +8,21 @@ Compatible | Mod Name | Author(s) and Github Link | Downloads
 :heavy_check_mark:| [Mapping Extensions](#Mapping-Extensions) | <ul><li>[Michael Zoller (updated to latest version)](https://github.com/zoller27osu/QuestMods/tree/master/MappingExtensions)</li><li>[Lord Kyle (original author)](https://github.com/Kylemc1413/QuestMods/tree/master/MappingExtensions)</li><li>Pink (testing)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/699422255880470608/MappingExtensions.zip)</li><li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/655856233126821920/MappingExtensions_0.15.0.zip)</li></ul>
 :heavy_check_mark:| [Intro Skip](#Intro-Skip) | <ul><li>April is Very Fun</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/698576745829499010/introskip_v0.1.0.zip)</li></ul>
 :heavy_check_mark:| [Motion Blur Disabler](#Motion-Blur-Disabler) | <ul><li>futuremappermydud</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/697858728157905066/libmbdisabler.zip)</li></ul>
-:x:| [Rainbow Mod](#Rainbow-Mod) | <ul><li>[darknight1050](https://github.com/darknight1050/RainbowMod)</li></ul> | <li>[**Latest (v1.8.0)**](https://github.com/darknight1050/RainbowMod/releases/download/0.2.21/rainbowmod_v0.2.21.zip)</li><li>[Other versions](https://github.com/darknight1050/RainbowMod/releases)</li></ul>
 :heavy_check_mark:| [Quest Counters](#Quest-Counters) | <ul><li>[futuremappermydud](https://github.com/Futuremappermydud/Quest-Counters)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/705506437589106708/bmbfmod.zip)</li><li>[v1.8.0](https://cdn.discordapp.com/attachments/693670761453453402/696455923820134530/Quest_Counters-1-1-2.zip)</li></ul>
+:heavy_check_mark:| [Clock mod](#Clock-mod) | <ul><li>Miniwa</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/702133646714339448/clock.zip)</li><li>[v1.8.0](https://cdn.discordapp.com/attachments/693670761453453402/694940041562030221/clock.zip)</li></ul>
+:heavy_check_mark:| [No Health and Safety](#No-Health-and-Safety) | <ul><li>Rugtveit</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/703004720943333447/NoHealthandSafety.zip)</li><li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/661712826179518548/No_Health_and_Safety.zip)</li></ul>
+:heavy_check_mark:| [Be Gone Scores](#Be-Gone-Scores) | <ul><li>darknight1050</li><li>[futuremappermydud (author)](https://github.com/Futuremappermydud/Begonescores)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/701901587718865006/Begonescores.zip)</li><li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/658753973360263219/xscore.zip)</li></ul>
+:heavy_check_mark:| [QSettingsPlus](#QSettingsPlus) | <ul><li>Rugtveit</li></ul> | <li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/655188906882629663/QSettingsPlus.zip)</li><li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/703005711193604195/QSettingsPlus.zip)</li></ul>
+:heavy_check_mark:| Song Preview Extender | <ul><li>L_</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/706956896078135418/idk_v0.2.0.zip)</li></ul>
+:heavy_check_mark:| Beef Saber | <ul><li>futuremappermydud</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/705507256816500766/beefsaber_v0.1.0.zip)</li></ul>
+:heavy_check_mark:| Custom Trail Length | <ul><li>futuremappermydud</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/704074771503120494/bmbfmod.zip)</li></ul>
+:heavy_check_mark:| FPS Counter | <ul><li>Rugtveit</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/703005175945756763/FpsCounter.zip)</li></ul>
+:x:| [Rainbow Mod](#Rainbow-Mod) | <ul><li>[darknight1050](https://github.com/darknight1050/RainbowMod)</li></ul> | <li>[**Latest (v1.8.0)**](https://github.com/darknight1050/RainbowMod/releases/download/0.2.21/rainbowmod_v0.2.21.zip)</li><li>[Other versions](https://github.com/darknight1050/RainbowMod/releases)</li></ul>
 :x:| [Volume Config](#Volume-Config) | <ul><li>Pink</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/696164225415905290/VolumeChanger.zip)</li></ul>
 :x:| [ChromaLite](#ChromaLite) | <ul><li>Pink</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/695780035176431657/ChromaLite.zip)</li></ul>
 :x:| [Notice Board](#Notice-Board) | <ul><li>Pink</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/695704997492686878/NoticeBoard.zip)</li></ul>
 :x:| [SongHelper](#SongHelper) | <ul><li>[darknight1050](https://github.com/darknight1050/SongHelper)</li></ul> | <li>[**Latest (v1.8.0)**](https://github.com/darknight1050/SongHelper/releases/download/0.1.1/songhelper_v0.1.1.zip)</li><li>[Other versions](https://github.com/darknight1050/SongHelper/releases)</li></ul>
 :x:| [More Options](#More-Options) | <ul><li>April is very fun</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/695400427734433842/moreoptions_v0.1.1.zip)</li></ul>
-:heavy_check_mark:| [Clock mod](#Clock-mod) | <ul><li>Miniwa</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/702133646714339448/clock.zip)</li><li>[v1.8.0](https://cdn.discordapp.com/attachments/693670761453453402/694940041562030221/clock.zip)</li></ul>
 :x:| [Max Rumble](#Max-Rumble) | <ul><li>Pink</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694880192845447218/MaxRumble.zip)</li></ul>
 :x:| Honk | <ul></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694743683752263690/Honk.zip)</li></ul>
 :x:| [Darth Maul Mode Plus](#Darth-Maul-Mode-Plus) | <ul><li>April is very fun</li></ul> | <li>[**Latest (v1.8.0)**](https://cdn.discordapp.com/attachments/693670761453453402/694285094973603880/togglemaul_v0.1.0.zip)</li></ul>
@@ -32,14 +39,7 @@ Compatible | Mod Name | Author(s) and Github Link | Downloads
 :x:| [OSU Click Note Hit Sound](#OSU-Click-Note-Hit-Sound) | <ul><li>Ryan (author)</li><li>Pink (help)</li><li>24Kings (help)</li></ul> | <li>[**Latest (v1.6.x)**](https://cdn.discordapp.com/attachments/654964358044057603/668868417108836382/OSUClickv1.1.1for1.6.x.zip)</li><li>[No menu click](https://cdn.discordapp.com/attachments/654964358044057603/668868434297356288/OSUClickv1.1.1for1.6.x-NoMenuClick.zip)</li></ul>
 :x:| [Note Bounce](#Note-Bounce) | <ul><li>April is very fun</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/665759437616709642/NoteBounce.zip)</li></ul>
 :x:| [Advanced Config](#Advanced-Config) | <ul><li>Pink</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/663552334109868045/AdvancedConfigV0.1.1.zip)</li></ul>
-:heavy_check_mark:| [No Health and Safety](#No-Health-and-Safety) | <ul><li>Rugtveit</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/703004720943333447/NoHealthandSafety.zip)</li><li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/661712826179518548/No_Health_and_Safety.zip)</li></ul>
-:heavy_check_mark:| [Be Gone Scores](#Be-Gone-Scores) | <ul><li>darknight1050</li><li>[futuremappermydud (author)](https://github.com/Futuremappermydud/Begonescores)</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/701901587718865006/Begonescores.zip)</li><li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/658753973360263219/xscore.zip)</li></ul>
 :x:| [Hit Score Visualizer](#Hit-Score-Visualizer) | <ul><li>[Sc2ad](https://github.com/sc2ad/QuestHitScoreVisualizer/tree/dev_hsv/hitscorevisualizer)</li></ul> | <li>[**Latest (v1.6.0)**](https://cdn.discordapp.com/attachments/654964358044057603/657311587769516091/hitscorevisualizer_v3.0.1.zip)</li></ul>
-:heavy_check_mark:| [QSettingsPlus](#QSettingsPlus) | <ul><li>Rugtveit</li></ul> | <li>[v1.6.0](https://cdn.discordapp.com/attachments/654964358044057603/655188906882629663/QSettingsPlus.zip)</li><li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/703005711193604195/QSettingsPlus.zip)</li></ul>
-:heavy_check_mark:| Song Preview Extender | <ul><li>L_</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/706956896078135418/idk_v0.2.0.zip)</li></ul>
-:heavy_check_mark:| Beef Saber | <ul><li>futuremappermydud</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/705507256816500766/beefsaber_v0.1.0.zip)</li></ul>
-:heavy_check_mark:| Custom Trail Length | <ul><li>futuremappermydud</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/704074771503120494/bmbfmod.zip)</li></ul>
-:heavy_check_mark:| FPS Counter | <ul><li>Rugtveit</li></ul> | <li>[**Latest (v1.9.0)**](https://cdn.discordapp.com/attachments/693670761453453402/703005175945756763/FpsCounter.zip)</li></ul>
 
 ### Assets
 Compatible | Mod Name | Author(s) and Github Link | Downloads
@@ -128,25 +128,6 @@ This mod disables the annoying white line which is inside the saber. This mod is
 [back to top](#top)
 
 -----
-<a name="Rainbow-Mod"></a>
-**RainbowMod 0.2.2 (BeatSaber 1.8.0)**
-
-This mod adds Rainbow Lights, Walls, Sabers, Trails and Notes!
-
-By default only Lights are enabled. 
-
-
-
-Use the **README** for more info (how to edit config): https://github.com/darknight1050/RainbowMod/blob/master/README.md
-
-Download:
-
-https://github.com/darknight1050/RainbowMod/releases/download/0.2.2/rainbowmod_v0.2.2.zip
-
-
-[back to top](#top)
-
------
 <a name="Quest-Counters"></a>
 **Quest Counters v1.1.2 By Futuremappermydud**
 
@@ -197,6 +178,122 @@ Bugs
 Video: https://streamable.com/tbp7fz
 
 Github: https://github.com/Futuremappermydud/Quest-Counters
+
+[back to top](#top)
+
+-----
+<a name="Clock-mod"></a>
+**Clock mod**
+
+Yeah uh. It adds a clock.
+
+Thats about it.
+
+Theres a config file to play with, though! You can choose between 12 and 24 hour time, to show or not show seconds, and even change the Y-offset of the clocks position if you dont like where i put it!
+
+Source: https://gitlab.com/miniwa/clock-mod-quest
+
+
+
+**Note: scroll down a bit for the download**
+
+
+![Clock mod image preview](https://cdn.discordapp.com/attachments/693670761453453402/694235741991075860/cover.PNG)
+
+[back to top](#top)
+
+-----
+<a name="No-Health-and-Safety"></a>
+**No Health and Safety v1.0.0 for 1.9.0**
+
+This mod skips over the health and safety on startup!
+
+[back to top](#top)
+
+-----
+<a name="Be-Gone-Scores"></a>
+**Be Gone Scores **
+
+made by futuremappermydud
+
+Removes text on hit
+
+https://www.youtube.com/watch?v=gMGurIbm6Qw
+
+[back to top](#top)
+
+-----
+<a name="QSettingsPlus"></a>
+**QSettingsPlus**
+
+  Features: 
+
+- Being able to disable and enable things with config!
+
+- What you can enable and disable: 
+
+     - Saber Glow 
+
+     - Wall Transparrency 
+
+     - Wall Glow
+
+- decrease or increase particles to be between 0 to 50 when cutting a cube! 
+
+
+
+Known bugs:
+
+Wall frame doesn't get a color
+
+
+
+How do I change the settings? 
+
+
+
+First time after you have opened Beat Saber with QSettingsPlus it will create a config!
+
+
+
+You can find the config in Quest → Android → data → com.beatgames.beatsaber → files → mod_cfgs
+
+
+
+You open QSettingsPlus.Json in preferred text editor 
+
+and change example GlowOnWalls to be "true" if you want the glow back.
+
+
+
+When you want to save you do file → save as and choose a place like desktop and save it as QSettingsPlus.json 
+
+
+
+Now you would want to drag it over to mod_cfgs to overwrite the current one that's created!
+
+Github: https://github.com/Rugtveit/Beatsaber-mods/tree/master/Quest/QSettingsPlus
+
+![QSettingsPlus image preview](https://cdn.discordapp.com/attachments/654964358044057603/655189011396034580/Untitled.png)
+
+[back to top](#top)
+
+-----
+<a name="Rainbow-Mod"></a>
+**RainbowMod 0.2.2 (BeatSaber 1.8.0)**
+
+This mod adds Rainbow Lights, Walls, Sabers, Trails and Notes!
+
+By default only Lights are enabled. 
+
+
+
+Use the **README** for more info (how to edit config): https://github.com/darknight1050/RainbowMod/blob/master/README.md
+
+Download:
+
+https://github.com/darknight1050/RainbowMod/releases/download/0.2.2/rainbowmod_v0.2.2.zip
+
 
 [back to top](#top)
 
@@ -326,27 +423,6 @@ _What is coming soon:_
 
 -Merging Darth Maul Mode Plus with this mod and making the settings work individually so you dont have to change them every time you change modes
 
-
-[back to top](#top)
-
------
-<a name="Clock-mod"></a>
-**Clock mod**
-
-Yeah uh. It adds a clock.
-
-Thats about it.
-
-Theres a config file to play with, though! You can choose between 12 and 24 hour time, to show or not show seconds, and even change the Y-offset of the clocks position if you dont like where i put it!
-
-Source: https://gitlab.com/miniwa/clock-mod-quest
-
-
-
-**Note: scroll down a bit for the download**
-
-
-![Clock mod image preview](https://cdn.discordapp.com/attachments/693670761453453402/694235741991075860/cover.PNG)
 
 [back to top](#top)
 
@@ -672,26 +748,6 @@ Download Link: https://github.com/PinkSaber/PinkSaberDev/raw/master/AdvancedConf
 [back to top](#top)
 
 -----
-<a name="No-Health-and-Safety"></a>
-**No Health and Safety v1.0.0 for 1.9.0**
-
-This mod skips over the health and safety on startup!
-
-[back to top](#top)
-
------
-<a name="Be-Gone-Scores"></a>
-**Be Gone Scores **
-
-made by futuremappermydud
-
-Removes text on hit
-
-https://www.youtube.com/watch?v=gMGurIbm6Qw
-
-[back to top](#top)
-
------
 <a name="Hit-Score-Visualizer"></a>
 **HitScoreVisualizer 3.0.1 for Oculus Quest**
 
@@ -740,62 +796,6 @@ GitHub (no releases posted yet, just source code here): https://github.com/sc2ad
 The configuration file is located at: /sdcard/Android/data/com.beatgames.beatsaber/files/mod_cfgs/HitScoreVisualizer.json
 
 Having issues? Send @skadman a DM!
-
-[back to top](#top)
-
------
-<a name="QSettingsPlus"></a>
-**QSettingsPlus**
-
-  Features: 
-
-- Being able to disable and enable things with config!
-
-- What you can enable and disable: 
-
-     - Saber Glow 
-
-     - Wall Transparrency 
-
-     - Wall Glow
-
-- decrease or increase particles to be between 0 to 50 when cutting a cube! 
-
-
-
-Known bugs:
-
-Wall frame doesn't get a color
-
-
-
-How do I change the settings? 
-
-
-
-First time after you have opened Beat Saber with QSettingsPlus it will create a config!
-
-
-
-You can find the config in Quest → Android → data → com.beatgames.beatsaber → files → mod_cfgs
-
-
-
-You open QSettingsPlus.Json in preferred text editor 
-
-and change example GlowOnWalls to be "true" if you want the glow back.
-
-
-
-When you want to save you do file → save as and choose a place like desktop and save it as QSettingsPlus.json 
-
-
-
-Now you would want to drag it over to mod_cfgs to overwrite the current one that's created!
-
-Github: https://github.com/Rugtveit/Beatsaber-mods/tree/master/Quest/QSettingsPlus
-
-![QSettingsPlus image preview](https://cdn.discordapp.com/attachments/654964358044057603/655189011396034580/Untitled.png)
 
 [back to top](#top)
 

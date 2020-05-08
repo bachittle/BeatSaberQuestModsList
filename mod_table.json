@@ -86,28 +86,6 @@
         "desc": "**Motion Blur Disabler by futuremappermydud** \n\nThis mod disables the annoying white line which is inside the saber. This mod is made 100% by iplay games!#6969 / futuremappermydud, I'm just uploading it for him. The image down here actually makes it look better without the mod lol, but it shows how it works.\n\n",
         "image": "https://cdn.discordapp.com/attachments/693670761453453402/697858753734770708/motionblur.png"
     },
-    "Rainbow Mod": {
-        "type": "mod",
-        "version": "v1.8.0",
-        "authors": [
-            {
-                "name": "darknight1050",
-                "contributions": "",
-                "github": "https://github.com/darknight1050/RainbowMod"
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://github.com/darknight1050/RainbowMod/releases/download/0.2.21/rainbowmod_v0.2.21.zip"
-            },
-            {
-                "text": "Other versions",
-                "link": "https://github.com/darknight1050/RainbowMod/releases"
-            }
-        ],
-        "desc": "**RainbowMod 0.2.2 (BeatSaber 1.8.0)**\n\nThis mod adds Rainbow Lights, Walls, Sabers, Trails and Notes!\n\nBy default only Lights are enabled. \n\n\n\nUse the **README** for more info (how to edit config): https://github.com/darknight1050/RainbowMod/blob/master/README.md\n\nDownload:\n\nhttps://github.com/darknight1050/RainbowMod/releases/download/0.2.2/rainbowmod_v0.2.2.zip\n\n"
-    },
     "Quest Counters": {
         "type": "mod",
         "version": "v1.9.0",
@@ -129,6 +107,191 @@
             }
         ],
         "desc": "Quest Counters v1.1.2 By Futuremappermydud\n\n \n\n \n\n \n\nCurrent Features\n\n-Total notes hit(ignores combo breakers)\n\n-Total missed / badhit notes\n\n-Notes left\n\n-3 Accuracy related counters new\n\n-percentage of notes hit(the % by the notes hit) new\n\n-Saber Speed(right saber only atm) new\n\n \n\nv1.2.0 Features\n\n-Personal best counter\n\n-Config\n\n \n\nv1.3.0 Features\n\n-Move the counters with config\n\n-some more counters\n\n \n\nBugs\n\n-Notes left counter shows full amount of notes when you use practice mode too change the time\n\n \n\nVideo: https://streamable.com/tbp7fz\n\nGithub: https://github.com/Futuremappermydud/Quest-Counters\n\n"
+    },
+    "Clock mod": {
+        "type": "mod",
+        "version": "v1.9.0",
+        "authors": [
+            {
+                "name": "Miniwa",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/702133646714339448/clock.zip"
+            },
+            {
+                "text": "v1.8.0",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/694940041562030221/clock.zip"
+            }
+        ],
+        "desc": "**Clock mod**\n\nYeah uh. It adds a clock.\n\nThats about it.\n\nTheres a config file to play with, though! You can choose between 12 and 24 hour time, to show or not show seconds, and even change the Y-offset of the clocks position if you dont like where i put it!\n\nSource: https://gitlab.com/miniwa/clock-mod-quest\n\n\n\n**Note: scroll down a bit for the download**\n\n",
+        "image": "https://cdn.discordapp.com/attachments/693670761453453402/694235741991075860/cover.PNG"
+    },
+    "No Health and Safety": {
+        "type": "mod",
+        "version": "v1.9.0",
+        "authors": [
+            {
+                "name": "Rugtveit",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/703004720943333447/NoHealthandSafety.zip"
+            },
+            {
+                "text": "v1.6.0",
+                "link": "https://cdn.discordapp.com/attachments/654964358044057603/661712826179518548/No_Health_and_Safety.zip"
+            }
+        ],
+        "desc": "No Health and Safety v1.0.0 for 1.9.0\n\nThis mod skips over the health and safety on startup!\n\n"
+    },
+    "Be Gone Scores": {
+        "type": "mod",
+        "version": "v1.9.0",
+        "authors": [
+            {
+                "name": "darknight1050",
+                "contributions": "",
+                "github": ""
+            },
+            {
+                "name": "futuremappermydud",
+                "contributions": "author",
+                "github": "https://github.com/Futuremappermydud/Begonescores"
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/701901587718865006/Begonescores.zip"
+            },
+            {
+                "text": "v1.6.0",
+                "link": "https://cdn.discordapp.com/attachments/654964358044057603/658753973360263219/xscore.zip"
+            }
+        ],
+        "desc": "Be Gone Scores \n\nmade by futuremappermydud\n\nRemoves text on hit\n\nhttps://www.youtube.com/watch?v=gMGurIbm6Qw\n\n"
+    },
+    "QSettingsPlus": {
+        "type": "mod",
+        "version": "v1.9.0",
+        "authors": [
+            {
+                "name": "Rugtveit",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "v1.6.0",
+                "link": "https://cdn.discordapp.com/attachments/654964358044057603/655188906882629663/QSettingsPlus.zip"
+            },
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/703005711193604195/QSettingsPlus.zip"
+            }
+        ],
+        "desc": "QSettingsPlus\n\n  Features: \n\n- Being able to disable and enable things with config!\n\n- What you can enable and disable: \n\n     - Saber Glow \n\n     - Wall Transparrency \n\n     - Wall Glow\n\n- decrease or increase particles to be between 0 to 50 when cutting a cube! \n\n\n\nKnown bugs:\n\nWall frame doesn't get a color\n\n\n\nHow do I change the settings? \n\n\n\nFirst time after you have opened Beat Saber with QSettingsPlus it will create a config!\n\n\n\nYou can find the config in Quest \u2192 Android \u2192 data \u2192 com.beatgames.beatsaber \u2192 files \u2192 mod_cfgs\n\n\n\nYou open QSettingsPlus.Json in preferred text editor \n\nand change example GlowOnWalls to be \"true\" if you want the glow back.\n\n\n\nWhen you want to save you do file \u2192 save as and choose a place like desktop and save it as QSettingsPlus.json \n\n\n\nNow you would want to drag it over to mod_cfgs to overwrite the current one that's created!\n\nGithub: https://github.com/Rugtveit/Beatsaber-mods/tree/master/Quest/QSettingsPlus\n\n",
+        "image": "https://cdn.discordapp.com/attachments/654964358044057603/655189011396034580/Untitled.png"
+    },
+    "Song Preview Extender": {
+        "version": "v1.9.0",
+        "type": "mod",
+        "authors": [
+            {
+                "name": "L_",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/706956896078135418/idk_v0.2.0.zip"
+            }
+        ]
+    },
+    "Beef Saber": {
+        "version": "v1.9.0",
+        "type": "mod",
+        "authors": [
+            {
+                "name": "futuremappermydud",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/705507256816500766/beefsaber_v0.1.0.zip"
+            }
+        ]
+    },
+    "Custom Trail Length": {
+        "version": "v1.9.0",
+        "type": "mod",
+        "authors": [
+            {
+                "name": "futuremappermydud",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/704074771503120494/bmbfmod.zip"
+            }
+        ]
+    },
+    "FPS Counter": {
+        "version": "v1.9.0",
+        "type": "mod",
+        "authors": [
+            {
+                "name": "Rugtveit",
+                "contributions": "",
+                "github": ""
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://cdn.discordapp.com/attachments/693670761453453402/703005175945756763/FpsCounter.zip"
+            }
+        ]
+    },
+    "Rainbow Mod": {
+        "type": "mod",
+        "version": "v1.8.0",
+        "authors": [
+            {
+                "name": "darknight1050",
+                "contributions": "",
+                "github": "https://github.com/darknight1050/RainbowMod"
+            }
+        ],
+        "downloads": [
+            {
+                "text": "LATEST",
+                "link": "https://github.com/darknight1050/RainbowMod/releases/download/0.2.21/rainbowmod_v0.2.21.zip"
+            },
+            {
+                "text": "Other versions",
+                "link": "https://github.com/darknight1050/RainbowMod/releases"
+            }
+        ],
+        "desc": "**RainbowMod 0.2.2 (BeatSaber 1.8.0)**\n\nThis mod adds Rainbow Lights, Walls, Sabers, Trails and Notes!\n\nBy default only Lights are enabled. \n\n\n\nUse the **README** for more info (how to edit config): https://github.com/darknight1050/RainbowMod/blob/master/README.md\n\nDownload:\n\nhttps://github.com/darknight1050/RainbowMod/releases/download/0.2.2/rainbowmod_v0.2.2.zip\n\n"
     },
     "Volume Config": {
         "type": "mod",
@@ -226,29 +389,6 @@
             }
         ],
         "desc": "**More Options V0.1.1**\n\nThis mod allows you to move your saber farther than the constrained amount in the settings.\n\n\n\n_Changelog:_\n\n-Updated for 1.8.0\n\n-Values are now stored in between opening and closing Beat Saber\n\n\n\n_What is coming soon:_\n\n-The ability to go past the max of 1.0 in trail intensity, sound effect volume, and global volume\n\n-Merging Darth Maul Mode Plus with this mod and making the settings work individually so you dont have to change them every time you change modes\n\n"
-    },
-    "Clock mod": {
-        "type": "mod",
-        "version": "v1.9.0",
-        "authors": [
-            {
-                "name": "Miniwa",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693670761453453402/702133646714339448/clock.zip"
-            },
-            {
-                "text": "v1.8.0",
-                "link": "https://cdn.discordapp.com/attachments/693670761453453402/694940041562030221/clock.zip"
-            }
-        ],
-        "desc": "**Clock mod**\n\nYeah uh. It adds a clock.\n\nThats about it.\n\nTheres a config file to play with, though! You can choose between 12 and 24 hour time, to show or not show seconds, and even change the Y-offset of the clocks position if you dont like where i put it!\n\nSource: https://gitlab.com/miniwa/clock-mod-quest\n\n\n\n**Note: scroll down a bit for the download**\n\n",
-        "image": "https://cdn.discordapp.com/attachments/693670761453453402/694235741991075860/cover.PNG"
     },
     "Max Rumble": {
         "type": "mod",
@@ -576,55 +716,6 @@
         "desc": "Advanced Config v0.1.1 for BeatSaber 1.6.0\n\nWant a mod which violates god? ME TOO!\n\nHere you go, have advanced config.\n\n\n\nWhat does it do I hear no one ask?\n\n- Change your Slash Volume\n\n(Ive not set a limit, go crazy! just dont break your headset)\n\n- Change your Bad Cut Volume\n\n(0.0 Means the Bad Cut/Bomb Sound gets completely muted. no seriously don't blame me if you set it to 1000.0 and break your headset, there could be a base game limit tho.)\n\n- Disable the new Adaptive SFX\n\n(This is a port of Shadnix's AdaptiveSFXRemover v1.0.1, I genuinely don't know if it works or not as my ears aren't good enough to tell. Please message me Pink#3877 if it works or not)\n\n- Disable the Flashing E on the 'Beat Saber' Sign in menus\n\n- Disable the 'Flying Score Effect'\n\n(The 1-115 Numbers which show up after you slash a note)\n\n- Change the Overall Menu Volume\n\n(Doesn't effect the click sound, but every other sound in the menu changes to whatever you set. like genuinely don't break your headset)\n\n- Updated to the latest BS Hook\n\n\n\nTHIS MOD DOESNT HAVE ANY UI!\n\nTo change all of these values, you must edit its config file which is located in\n\nThis PC\\Quest\\Internal shared storage\\Android\\data\\com.beatgames.beatsaber\\files\\mod_cfgs\\AdvancedConfig.json\n\n\n\nConfig options are below and are pretty self explanatory.\n\n\n\nThanks to Rugtveit and Sc2ad for letting me cry to them when stuff didn't work.\n\n\n\nDownload Link: https://github.com/PinkSaber/PinkSaberDev/raw/master/AdvancedConfigV0.1.1.zip\n\n",
         "image": "https://cdn.discordapp.com/attachments/654964358044057603/663551855908880394/unknown.png"
     },
-    "No Health and Safety": {
-        "type": "mod",
-        "version": "v1.9.0",
-        "authors": [
-            {
-                "name": "Rugtveit",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693670761453453402/703004720943333447/NoHealthandSafety.zip"
-            },
-            {
-                "text": "v1.6.0",
-                "link": "https://cdn.discordapp.com/attachments/654964358044057603/661712826179518548/No_Health_and_Safety.zip"
-            }
-        ],
-        "desc": "No Health and Safety v1.0.0 for 1.9.0\n\nThis mod skips over the health and safety on startup!\n\n"
-    },
-    "Be Gone Scores": {
-        "type": "mod",
-        "version": "v1.9.0",
-        "authors": [
-            {
-                "name": "darknight1050",
-                "contributions": "",
-                "github": ""
-            },
-            {
-                "name": "futuremappermydud",
-                "contributions": "author",
-                "github": "https://github.com/Futuremappermydud/Begonescores"
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693670761453453402/701901587718865006/Begonescores.zip"
-            },
-            {
-                "text": "v1.6.0",
-                "link": "https://cdn.discordapp.com/attachments/654964358044057603/658753973360263219/xscore.zip"
-            }
-        ],
-        "desc": "Be Gone Scores \n\nmade by futuremappermydud\n\nRemoves text on hit\n\nhttps://www.youtube.com/watch?v=gMGurIbm6Qw\n\n"
-    },
     "Hit Score Visualizer": {
         "type": "mod",
         "version": "v1.6.0",
@@ -642,704 +733,5 @@
             }
         ],
         "desc": "HitScoreVisualizer 3.0.1 for Oculus Quest\n\nWhy the repost? You couldn't change config, it would always get set back to default.\n\nORIGINAL POST:\n\nIt's been quite some time since I last updated this mod, but trust me, it was worth it.\n\nI've added quite a few things, as well as improved the performance a ton.\n\n\n\nHere's the current feature list:\n\n- Displays colorful text every time you cut a block\n\n- Supports configuration files that are identical to configuration files from the PC HitScoreVisualizer mod\n\n- Supports custom text, configurable thresholds, and more all within the configuration file\n\n- Has seasonal configurations (With a special treat coming soon within the next few days!)\n\n\n\nBut there's much more to come! I plan on adding the following within the next few days:\n\n- Configurable text and colors from IN GAME!\n\n- More seasonal configurations\n\n- More configurable options (did someone say particles?)\n\n- Even more performance updates\n\n- Color fading and customizable colors within the text (rainbow colored text!)\n\n\n\nThis mod works on Beat Saber v1.6.x and BMBF v1.5.0, as well as Beat Saber v1.7.0 with BMBF v1.7.0\n\nThis mod has also been submitted to the Christmas BSMG Competition! I strongly recommend submitting something you have made as well!\n\nGitHub (no releases posted yet, just source code here): https://github.com/sc2ad/QuestHitScoreVisualizer/tree/dev_hsv/hitscorevisualizer\n\nThe configuration file is located at: /sdcard/Android/data/com.beatgames.beatsaber/files/mod_cfgs/HitScoreVisualizer.json\n\nHaving issues? Send @skadman a DM!\n\n"
-    },
-    "QSettingsPlus": {
-        "type": "mod",
-        "version": "v1.9.0",
-        "authors": [
-            {
-                "name": "Rugtveit",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "v1.6.0",
-                "link": "https://cdn.discordapp.com/attachments/654964358044057603/655188906882629663/QSettingsPlus.zip"
-            },
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693670761453453402/703005711193604195/QSettingsPlus.zip"
-            }
-        ],
-        "desc": "QSettingsPlus\n\n  Features: \n\n- Being able to disable and enable things with config!\n\n- What you can enable and disable: \n\n     - Saber Glow \n\n     - Wall Transparrency \n\n     - Wall Glow\n\n- decrease or increase particles to be between 0 to 50 when cutting a cube! \n\n\n\nKnown bugs:\n\nWall frame doesn't get a color\n\n\n\nHow do I change the settings? \n\n\n\nFirst time after you have opened Beat Saber with QSettingsPlus it will create a config!\n\n\n\nYou can find the config in Quest \u2192 Android \u2192 data \u2192 com.beatgames.beatsaber \u2192 files \u2192 mod_cfgs\n\n\n\nYou open QSettingsPlus.Json in preferred text editor \n\nand change example GlowOnWalls to be \"true\" if you want the glow back.\n\n\n\nWhen you want to save you do file \u2192 save as and choose a place like desktop and save it as QSettingsPlus.json \n\n\n\nNow you would want to drag it over to mod_cfgs to overwrite the current one that's created!\n\nGithub: https://github.com/Rugtveit/Beatsaber-mods/tree/master/Quest/QSettingsPlus\n\n",
-        "image": "https://cdn.discordapp.com/attachments/654964358044057603/655189011396034580/Untitled.png"
-    },
-    "Seat Baber Menu title": {
-        "type": "asset",
-        "version": "v1.9.0",
-        "authors": [
-            {
-                "name": "Mathias",
-                "contributions": "author",
-                "github": ""
-            },
-            {
-                "name": "Xrayxout",
-                "contributions": "commissioner",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/699698909882089602/SeatBaber.zip"
-            }
-        ]
-    },
-    "bazinga sound mod": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "jul7892",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/699986410593320960/bazinga_sound_mod.zip"
-            },
-            {
-                "text": "OGG sound file",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/699987090741526558/MenuClick.ogg"
-            }
-        ]
-    },
-    "Cal Kestis Lightsaber": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Alex",
-                "contributions": "author",
-                "github": ""
-            },
-            {
-                "name": "shadowchild789",
-                "contributions": "commissioner",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/699347353240600716/Cal_Kestis_Asset.zip"
-            }
-        ]
-    },
-    "Bruh Saber Logo V1": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Barack Obama",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698619749814239286/BruhSaberLogoV1.zip"
-            }
-        ]
-    },
-    "Galaxy V2 Asset saber": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Alex",
-                "contributions": "author",
-                "github": ""
-            },
-            {
-                "name": "Altair2",
-                "contributions": "resources",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698286999001366578/GalaxyV2.zip"
-            }
-        ]
-    },
-    "Honk Trail": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Simme63",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698187914370220032/honk_trail.zip"
-            },
-            {
-                "text": "Alternate (v1.9.0)",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188723011059816/honk_trail.zip"
-            }
-        ]
-    },
-    "Butter Cat Trail": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Simme63",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188035858366484/butter_cat_trail.zip"
-            }
-        ]
-    },
-    "White Guy Blinking Trail": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Simme63",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188222500700210/white_guy_blinking_trail.zip"
-            }
-        ]
-    },
-    "Sans Trail": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Simme63",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188315282636830/sands_trail.zip"
-            }
-        ]
-    },
-    "Peodd Trail": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Simme63",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188379493236756/peodd.zip"
-            }
-        ]
-    },
-    "Wave Trail": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Simme63",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188586029285446/wave_trail.zip"
-            }
-        ]
-    },
-    "Plasma Katana Trail": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Simme63",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188814824374323/plasma_katana_trail_maybe.zip"
-            }
-        ]
-    },
-    "Smol Trail": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Simme63",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188913021419621/smol_trail.zip"
-            },
-            {
-                "text": "smol trail 2 (v1.9.0)",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/698188989613473882/Smol_trail_2.zip"
-            }
-        ]
-    },
-    "Fire Trail": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Sands",
-                "contributions": "author",
-                "github": ""
-            },
-            {
-                "name": "Simme63",
-                "contributions": "testing and helping",
-                "github": ""
-            },
-            {
-                "name": "chromavr",
-                "contributions": "fixing bugs and issues",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697833020748726352/FireTrail.zip"
-            },
-            {
-                "text": "v1.8.0",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696034001672208384/FireTrail.zip"
-            }
-        ]
-    },
-    "Lines Trail": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Sands",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697833094228475944/LinesTrail.zip"
-            },
-            {
-                "text": "v1.8.0",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696432771253403749/LinesTrail.zip"
-            }
-        ]
-    },
-    "Triangle Trail": {
-        "version": "v1.9.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Sands",
-                "contributions": "author",
-                "github": ""
-            },
-            {
-                "name": "Simme63",
-                "contributions": "testing and helping",
-                "github": ""
-            },
-            {
-                "name": "chromavr",
-                "contributions": "fixing bugs and issues",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697833169499717652/TriangleTrail.zip"
-            },
-            {
-                "text": "v1.8.0",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696063439608610816/TriangleTrail.zip"
-            }
-        ]
-    },
-    "Neon Chokuto": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Mathias",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697162080909918298/NeonChokuto1.8.0.zip"
-            },
-            {
-                "text": "Inverted Neon Chokuto v1.8.0",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697162186019307540/NeonChokutoInverted1.8.0.zip"
-            }
-        ]
-    },
-    "Unnamed Osu Hitsound": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "professor honk",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697149879138385940/UnnamedOsuSoundV1.zip"
-            }
-        ]
-    },
-    "Pro Trail": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "professor honk",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697150116687118426/ProTrailV1.0.0.zip"
-            }
-        ]
-    },
-    "WireGemSabers": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Gladpus",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/697078105336184993/WireGemSaber_102.zip"
-            }
-        ]
-    },
-    "RedRumbler Beatsaber Logos": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "RedRumbler",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/BeatSaberLogos"
-            }
-        ]
-    },
-    "RedRumbler Trails": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "RedRumbler",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/SaberTrails"
-            }
-        ]
-    },
-    "Kick Hitsound": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "professor honk",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696580959184748554/KickSoundV1.0.0.zip"
-            },
-            {
-                "text": "GoodHit OGG Soundfile",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696580982245163038/GoodHit.ogg"
-            }
-        ]
-    },
-    "Dot Trail": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "professor honk",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696479386517504010/DotTrailV1.zip"
-            }
-        ]
-    },
-    "Galaxy Trail": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "professor honk",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696476809860218940/GalaxyTrailV1.zip"
-            }
-        ]
-    },
-    "Cool Trail": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "professor honk",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696474069457174548/CoolTrailV2.zip"
-            }
-        ]
-    },
-    "Softer OSU Click Hit Sounds": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Emerald",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696402525686857759/Softer_OSU_Click.zip"
-            },
-            {
-                "text": "GoodHit.OGG",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696402540576636978/GoodHit.ogg"
-            }
-        ]
-    },
-    "Grip N' Rip Sabers": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Emerald",
-                "contributions": "ported to quest",
-                "github": ""
-            },
-            {
-                "name": "Zennysama",
-                "contributions": "original author",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696352626450759720/Grip_N_Rip.zip"
-            }
-        ]
-    },
-    "Fortnite Logo": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Emerald",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696283228826370048/Fortnite_logo.zip"
-            }
-        ]
-    },
-    "Minecraft Menu Music": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Tohkan2D",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/696072237442400296/MinecraftMenuMusic.zip"
-            }
-        ]
-    },
-    "Toothpick Saber": {
-        "version": "v1.8.0",
-        "type": "asset",
-        "authors": [
-            {
-                "name": "Alex",
-                "contributions": "author",
-                "github": ""
-            },
-            {
-                "name": "timothy10583",
-                "contributions": "commissioner",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693694678922690600/695808324461133914/Toothpick_saber.zip"
-            }
-        ]
-    },
-    "Song Preview Extender": {
-        "version": "v1.9.0",
-        "type": "mod",
-        "authors": [
-            {
-                "name": "L_",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693670761453453402/706956896078135418/idk_v0.2.0.zip"
-            }
-        ]
-    },
-    "Beef Saber": {
-        "version": "v1.9.0",
-        "type": "mod",
-        "authors": [
-            {
-                "name": "futuremappermydud",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693670761453453402/705507256816500766/beefsaber_v0.1.0.zip"
-            }
-        ]
-    },
-    "Custom Trail Length": {
-        "version": "v1.9.0",
-        "type": "mod",
-        "authors": [
-            {
-                "name": "futuremappermydud",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693670761453453402/704074771503120494/bmbfmod.zip"
-            }
-        ]
-    },
-    "FPS Counter": {
-        "version": "v1.9.0",
-        "type": "mod",
-        "authors": [
-            {
-                "name": "Rugtveit",
-                "contributions": "",
-                "github": ""
-            }
-        ],
-        "downloads": [
-            {
-                "text": "LATEST",
-                "link": "https://cdn.discordapp.com/attachments/693670761453453402/703005175945756763/FpsCounter.zip"
-            }
-        ]
     }
 }

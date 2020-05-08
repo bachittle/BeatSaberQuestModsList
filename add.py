@@ -15,12 +15,16 @@ print("                                                      ")
 print("--------------------------------------------------------")
 
 LATEST_VERSION = "v1.9.0"
-JSON_FILENAME = "table.json"
 MD_FILENAME = "README.md"
 ITEM_TYPES = ["mod", "asset"]
-fp = open(JSON_FILENAME, "r")
-table_json = json.loads(fp.read())
-fp.close()
+table_json = {}
+def load_json(json_filename):
+    fp = open(json_filename, "r")
+    table_json.update(json.loads(fp.read()))
+    fp.close()
+
+load_json("mod_table.json")
+load_json("asset_table.json")
 
 #print(table_json)
 
@@ -87,8 +91,19 @@ def save_md_desc(type):
 
 def save_file():
     print("saving json file...")
-    fd = open(JSON_FILENAME, "w")
-    json.dump(table_json, fd, indent=4)
+    fd1 = open("mod_table.json", "w")
+    fd2 = open("asset_table.json", "w")
+    mod_json = {}
+    asset_json = {}
+    for key in table_json.keys():
+        item = table_json[key]
+        if item["type"] == "mod":
+            mod_json[key] = item
+        if item["type"] == "asset":
+            asset_json[key] = item
+            
+    json.dump(mod_json, fd1, indent=4)
+    json.dump(asset_json, fd2, indent=4)
 
     print("converting json to md format...")
     table_md = ""
