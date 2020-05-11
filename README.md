@@ -5,6 +5,7 @@ latest version of Beat Saber: (v1.9.0)
 
 ## Legend
 :heavy_check_mark: - Compatible with latest version
+
 :x: - Not confirmed to be compatible with latest version
 
 **NOTE: if the version is incompatible it may still work, it just isn't confirmed to work**
