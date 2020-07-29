@@ -1,6 +1,6 @@
 # Beat Saber Mods list for the Oculus Quest
 
-### WARNING: THIS MODS LIST IS OUT OF DATE, IF YOU WOULD LIKE TO GET AN UP-TO-DATE VERSION OF ALL MODS JOIN THE BEAT SABER QUEST DISCORD: discord.gg/beatsabermods
+### WARNING: THIS MODS LIST IS OUT OF DATE, IF YOU WOULD LIKE TO GET AN UP-TO-DATE VERSION OF ALL MODS JOIN THE BEAT SABER QUEST DISCORD: https://discord.gg/beatsabermods
 
 If you don't know anything about installing mods, [click here](https://bsmg.wiki/quest-modding.html).
 
